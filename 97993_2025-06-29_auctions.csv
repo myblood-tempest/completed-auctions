@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+6df904f3-9d18-412e-a5ca-83911c427ae7,2025-06-29T17:28:31+00:00,2025-06-29T17:28:31+00:00,STUD_AUCTION,ACTIVE,1976b570-7183-4e47-86ac-23c492f7d7fc,Forgiving Satin,MALE,81D4FA,3,NAKAMOTO,3.0,1,0.0,,0,3d434f7e-d235-45ea-b399-ffbd990e94cf
 3ec1600b-9501-4968-a9bb-fc3c8857d141,2025-06-29T17:07:40+00:00,2025-06-29T17:07:40+00:00,STUD_AUCTION,ACTIVE,50632fc3-846d-4acd-9a27-a29f8df08005,Lovely Belfry,MALE,81D4FA,3,FINNEY,3.0,1,0.0,,0,3d434f7e-d235-45ea-b399-ffbd990e94cf
 769f4cb0-d504-4053-9aee-9c5c4e8cecde,2025-06-29T17:01:53+00:00,2025-06-29T17:01:53+00:00,STUD_AUCTION,ACTIVE,eab8fd13-f85b-4d7a-9473-4fdc3532dfbe,Panta Rei,MALE,FFF9C4,4,FINNEY,3.0,0,0.0,,0,3d434f7e-d235-45ea-b399-ffbd990e94cf
 7817d7b8-6cc4-433c-a6fd-ea94f46423dc,2025-06-29T17:00:26+00:00,2025-06-29T17:00:26+00:00,STUD_AUCTION,ACTIVE,1ffcec74-e90b-4dd9-93b3-0db774867a83,Delighted Orquestra,MALE,039BE5,3,BUTERIN,3.5,1,0.0,,0,76c0adf7-467f-4f38-a3ab-0ba556e52fa6
