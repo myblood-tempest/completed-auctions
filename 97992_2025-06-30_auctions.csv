@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+14ab5416-1bcd-4de9-945a-544655bdac12,2025-06-30T04:06:38+00:00,2025-06-30T04:06:38+00:00,STUD_AUCTION,ACTIVE,da5766f1-e9bf-4cca-b9c5-b02a7e7161a4,Understanding Daphne,MALE,E57373,3,SZABO,3.5,0,0.0,,0,078ed0ad-b2f8-4910-9617-987483fc1c8c
 f01c69e3-792d-4612-a641-4cdccf0da57e,2025-06-30T03:52:33+00:00,2025-06-30T03:52:33+00:00,STUD_AUCTION,ACTIVE,ade36276-758a-449d-a620-31b076120cda,Pleasing Alchemist,MALE,2962FF,0,SZABO,3.0,4,0.0,,0,86e856b8-7d58-4cba-94fd-fa1c2cd15d5b
 74462796-7321-4a74-8c83-8dc77482a513,2025-06-30T03:48:05+00:00,2025-06-30T03:48:05+00:00,STUD_AUCTION,ACTIVE,5891f694-9385-4c8f-bf8e-1c076b73ffa0,Wet and Forget,MALE,00ACC1,3,SZABO,3.0,0,0.0,,0,69888ecd-b0b8-4de2-84e3-c1c0996e401d
 05e96c62-dd5a-4106-a818-6ec2803caae9,2025-06-30T03:47:53+00:00,2025-06-30T03:47:53+00:00,STUD_AUCTION,ACTIVE,2e4679d6-c93b-4f79-8ec1-0d0bd173ba11,Bring the heat,MALE,4FC3F7,0,SZABO,3.0,0,0.0,,0,69888ecd-b0b8-4de2-84e3-c1c0996e401d
