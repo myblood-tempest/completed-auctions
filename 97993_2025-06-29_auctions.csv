@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+392efe84-79fe-4615-a5e0-0281132e25aa,2025-06-29T13:05:50+00:00,2025-06-29T13:05:50+00:00,STUD_AUCTION,ACTIVE,91ef3b19-fd12-46e3-97f9-b34870a0bd1e,Quattro formaggi,MALE,9C27B0,1,SZABO,3.5,2,0.0,,0,3d434f7e-d235-45ea-b399-ffbd990e94cf
 7adf0976-4041-4c62-a63e-e1b87b26374f,2025-06-29T12:56:38+00:00,2025-06-29T12:56:38+00:00,STUD_AUCTION,ACTIVE,cbab9532-3566-45b1-b2e2-a2fb2b8f1a20,Thick Mint,MALE,80DEEA,3,FINNEY,3.0,0,0.0,,0,36b91027-33d7-4a81-96ea-68c23947d313
 abcb13b9-8a5f-43a2-9fcd-c3d336aa1562,2025-06-29T12:54:41+00:00,2025-06-29T12:54:41+00:00,STUD_AUCTION,ACTIVE,5afe5aed-8c8e-489e-a2c1-3744ab5058e1,Wall E,MALE,7B1FA2,2,FINNEY,3.5,0,0.0,,0,4fed6f58-ff3d-49a6-ae32-5afde86c9a90
 73489f7d-62ac-40d7-a9c2-a3bd179b09ea,2025-06-29T12:54:31+00:00,2025-06-29T12:54:31+00:00,STUD_AUCTION,ACTIVE,07f3ed87-7952-40f2-9e29-b1d134cb4e94,Reliable Hamster,MALE,EF5350,0,NAKAMOTO,3.0,0,0.0,,0,4fed6f58-ff3d-49a6-ae32-5afde86c9a90
