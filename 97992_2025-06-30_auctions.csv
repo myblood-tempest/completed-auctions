@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+7b64a5cf-6761-45ea-abd2-fae3ded37ca1,2025-06-30T07:57:11+00:00,2025-06-30T07:57:11+00:00,STUD_AUCTION,ACTIVE,47935e24-8f24-400d-a279-33be2907dbc8,Seriously Reckless,MALE,7E57C2,2,NAKAMOTO,3.5,0,0.0,,0,5dc43058-344f-47d8-ae2d-4c87df1e20bd
 f5635304-0eaf-43ee-a0df-ac9bb23541dd,2025-06-30T07:44:42+00:00,2025-06-30T07:44:42+00:00,STUD_AUCTION,ACTIVE,ada6761a-f130-48b9-9d60-d808b18dbbe4,Roll Of Thunder,MALE,F48FB1,0,NAKAMOTO,3.5,0,0.0,,0,5dc43058-344f-47d8-ae2d-4c87df1e20bd
 0060dade-d180-4d3f-9831-02457143a82a,2025-06-30T07:43:40+00:00,2025-06-30T07:43:40+00:00,STUD_AUCTION,ACTIVE,29782df8-7f22-4fc0-8b67-7841af826d1e,Tactful Ruched,MALE,E53935,3,FINNEY,3.5,0,0.0,,0,62594325-4a6c-41e5-bcf7-071fd15aba7e
 b5b338f7-6e42-4805-8119-e3720e39b003,2025-06-30T07:40:38+00:00,2025-06-30T07:40:38+00:00,STUD_AUCTION,ACTIVE,38779b20-cb09-4b64-befd-8d6241a72e3b,Truthful Diplomacy,MALE,F44336,2,FINNEY,4.0,0,20000.0,Thoughtful Sea,1,62594325-4a6c-41e5-bcf7-071fd15aba7e
