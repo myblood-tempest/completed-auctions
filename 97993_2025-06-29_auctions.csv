@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+494bb48a-9147-4245-8415-5d7ad1fc2338,2025-06-29T19:36:31+00:00,2025-06-29T19:36:31+00:00,STUD_AUCTION,ACTIVE,d243c018-ab25-4516-a21a-fb723d175d20,Niffler,MALE,8E24AA,3,NAKAMOTO,4.0,0,0.0,,0,e460f23f-191b-4ef4-8152-f7cf97c652d6
 423f57ed-e62b-4bfe-825e-b079e3686bfb,2025-06-29T19:27:21+00:00,2025-06-29T19:27:21+00:00,STUD_AUCTION,ACTIVE,31b3b220-f358-4f99-a784-9a6b7d004cba,Astrohorse,MALE,BA68C8,4,NAKAMOTO,3.5,0,0.0,,0,0368a6e0-a23c-4527-bd1c-38c79d51fcb4
 fd9dfd82-559c-41ff-afa9-24034e1f6bca,2025-06-29T19:25:41+00:00,2025-06-29T19:25:41+00:00,STUD_AUCTION,ACTIVE,7f40169d-f8ab-44e7-a9a4-06675b4b7dfd,Pure Blood,MALE,EF5350,1,NAKAMOTO,3.5,2,0.0,,0,0368a6e0-a23c-4527-bd1c-38c79d51fcb4
 c35ede6b-a656-4d01-977e-c5e008352a31,2025-06-29T19:21:43+00:00,2025-06-29T19:21:43+00:00,STUD_AUCTION,ACTIVE,a37e2077-6af2-42c3-95ba-c47feed95313,Humorous Linen,MALE,EF5350,2,NAKAMOTO,3.0,0,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
