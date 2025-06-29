@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+59e4d17c-80a8-41fd-9c76-d412c61c90c3,2025-06-30T02:54:25+00:00,2025-06-30T02:54:25+00:00,STUD_AUCTION,ACTIVE,68acd3f0-a363-4b3e-b651-9757bd9a4287,American Promise,MALE,9575CD,3,SZABO,3.5,0,100.0,Super 7 Amethyst,1,7ac7c0f3-fac6-4e1f-a9c1-21cdd82a0d01
 66a86c93-2091-4fce-bca1-d0d0a1fe55cd,2025-06-30T02:33:34+00:00,2025-06-30T02:33:34+00:00,STUD_AUCTION,ACTIVE,71dc4699-5007-4837-ad08-ea798bbcc38f,Unfinished Bench,MALE,80DEEA,0,SZABO,3.0,3,0.0,,0,801eaf92-bc0c-4944-9c49-ce337f1cdab0
 23aef864-2c5e-42fb-8241-bcf53762096d,2025-06-30T02:33:21+00:00,2025-06-30T02:33:21+00:00,STUD_AUCTION,ACTIVE,2b726df3-f70d-4da3-ba07-32449f7dfeb4,Organic Sweet,MALE,5E35B1,2,FINNEY,3.5,2,0.0,,0,801eaf92-bc0c-4944-9c49-ce337f1cdab0
 4c202b96-66fb-4eeb-90ce-a727e795f4f2,2025-06-30T02:32:42+00:00,2025-06-30T02:32:42+00:00,STUD_AUCTION,ACTIVE,2742a133-d2d0-4082-811a-a8a58d539aac,Calendar Season,MALE,C0CA33,1,BUTERIN,3.0,3,0.0,,0,801eaf92-bc0c-4944-9c49-ce337f1cdab0
