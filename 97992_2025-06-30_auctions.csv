@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+28e6c1ce-2997-4421-b793-311b3964a283,2025-06-30T03:05:15+00:00,2025-06-30T03:05:15+00:00,STUD_AUCTION,ACTIVE,549b41dc-c7d4-4ada-a0df-f3c35bc81c82,Larenzo Lion,MALE,29B6F6,2,SZABO,4.0,1,0.0,,0,5497758c-257b-4469-bb51-452d483388da
 59e4d17c-80a8-41fd-9c76-d412c61c90c3,2025-06-30T02:54:25+00:00,2025-06-30T02:54:25+00:00,STUD_AUCTION,ACTIVE,68acd3f0-a363-4b3e-b651-9757bd9a4287,American Promise,MALE,9575CD,3,SZABO,3.5,0,100.0,Super 7 Amethyst,1,7ac7c0f3-fac6-4e1f-a9c1-21cdd82a0d01
 66a86c93-2091-4fce-bca1-d0d0a1fe55cd,2025-06-30T02:33:34+00:00,2025-06-30T02:33:34+00:00,STUD_AUCTION,ACTIVE,71dc4699-5007-4837-ad08-ea798bbcc38f,Unfinished Bench,MALE,80DEEA,0,SZABO,3.0,3,0.0,,0,801eaf92-bc0c-4944-9c49-ce337f1cdab0
 23aef864-2c5e-42fb-8241-bcf53762096d,2025-06-30T02:33:21+00:00,2025-06-30T02:33:21+00:00,STUD_AUCTION,ACTIVE,2b726df3-f70d-4da3-ba07-32449f7dfeb4,Organic Sweet,MALE,5E35B1,2,FINNEY,3.5,2,0.0,,0,801eaf92-bc0c-4944-9c49-ce337f1cdab0
