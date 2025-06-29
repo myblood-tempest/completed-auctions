@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+aa352f94-aa08-4c07-8627-c7c8667536e3,2025-06-29T12:27:17+00:00,2025-06-29T12:27:17+00:00,STUD_AUCTION,ACTIVE,fd76279c-6077-4149-b1f1-cc1bb2afda1b,Lt Dangle,MALE,EC407A,3,NAKAMOTO,3.0,0,0.0,,0,7c3ad3aa-d320-47a8-8e16-b06048316915
 c98fced7-f12c-4831-8e7d-2dfa2572b16a,2025-06-29T12:20:08+00:00,2025-06-29T12:20:08+00:00,STUD_AUCTION,ACTIVE,71d92951-30b2-406a-8faa-4dc3bd72368e,King David Kingdom,MALE,F9A825,0,BUTERIN,3.0,4,0.0,,0,937d86bf-243e-43e8-ae7a-7966515efabb
 a4946e99-df81-41f5-a111-6d5d830235b7,2025-06-29T12:17:47+00:00,2025-06-29T12:17:47+00:00,STUD_AUCTION,ACTIVE,ef639d3c-ec66-4339-bd3c-39cc24e40a34,Muncher,MALE,FFF9C4,4,BUTERIN,3.0,0,0.0,,0,0b99dabb-ce32-40e5-97bc-82eedfc61830
 ff2188a0-002d-46fb-a490-fe80e78d0980,2025-06-29T12:03:53+00:00,2025-06-29T12:03:53+00:00,STUD_AUCTION,ACTIVE,182158b8-e425-4da5-99ed-92dfe8e0bc6b,Hot Coffee,MALE,81D4FA,1,SZABO,3.5,0,0.0,,0,de6e54ec-5567-44d4-ac9c-87cd40b70d53
