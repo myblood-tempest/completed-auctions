@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+e5ff90ad-cc22-4bf8-a8d1-a71467720cde,2025-06-29T14:07:42+00:00,2025-06-29T14:07:42+00:00,STUD_AUCTION,ACTIVE,f24d7b8c-abba-4923-a81e-2b438d8ccae2,Primary Priority,MALE,7B1FA2,0,FINNEY,2.5,1,0.0,,0,262609b6-3a20-49f2-b369-765dd42db24f
 aafc3305-3610-4011-afd4-78eca7bea946,2025-06-29T13:57:35+00:00,2025-06-29T13:57:35+00:00,STUD_AUCTION,ACTIVE,12531f44-57fc-4ae5-8602-fb2279eaeda7,Shiitake,MALE,C6FF00,3,BUTERIN,2.5,1,0.0,,0,163addf1-77d2-41b0-8cc1-210e45d50a64
 c50fbdaa-d133-4c96-b360-cabbb9e2efd5,2025-06-29T13:51:30+00:00,2025-06-29T13:51:30+00:00,STUD_AUCTION,ACTIVE,ec5cb15e-1714-4c67-84eb-be4876130edd,Rime Warden,MALE,03A9F4,2,SZABO,3.5,0,0.0,,0,87d925ab-fbc0-4d2c-ab8a-a89444585ac6
 86898fa9-3886-4ba5-8949-d0ea9ecfa67d,2025-06-29T13:19:28+00:00,2025-06-29T13:19:28+00:00,STUD_AUCTION,ACTIVE,5eed9b3c-b322-47a3-acf5-01c77d0737ae,Virtual Illusion,MALE,B39DDB,1,FINNEY,3.5,0,100.0,Bubba Gumpy,1,8177b381-e3bd-4ec7-8dc6-56938e365587
