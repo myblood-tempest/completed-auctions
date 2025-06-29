@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+c7c44d1d-7b8a-48d3-9d5d-d8011b299f42,2025-06-29T22:10:23+00:00,2025-06-29T22:10:23+00:00,STUD_AUCTION,ACTIVE,0d941f05-d592-49f0-a4aa-dbb77013f570,Positive Woodcut,MALE,EF9A9A,1,BUTERIN,3.0,3,0.0,,0,bf668049-55d2-40a8-9626-cee131f2e4fa
 b984e3fc-6f37-4f62-a59d-2469cb8e311b,2025-06-29T22:06:36+00:00,2025-06-29T22:06:36+00:00,STUD_AUCTION,ACTIVE,461f8ba4-8be4-4c2e-aff0-553489d59f18,Brilliant Bummer,MALE,039BE5,1,SZABO,2.5,0,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 87bf237b-c762-4eb9-b20f-5d0a43267a91,2025-06-29T22:05:11+00:00,2025-06-29T22:05:11+00:00,STUD_AUCTION,ACTIVE,0906b185-4937-4244-97cb-10ffb4fbd349,Crafty Foundation,MALE,B39DDB,0,FINNEY,3.5,2,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 c002e38d-3c7e-41dd-8c0a-a606f42cb427,2025-06-29T22:04:41+00:00,2025-06-29T22:04:41+00:00,STUD_AUCTION,ACTIVE,435db3fc-87dd-4dae-abd8-a1648dcc82b5,Golden One,MALE,FBC02D,6,FINNEY,3.0,1,0.0,,0,f259cafa-7ff2-49bc-be73-05772f3b9ae8
