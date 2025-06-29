@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+3027c646-85dd-4e70-adf3-8b1d235d322b,2025-06-29T21:43:21+00:00,2025-06-29T21:43:21+00:00,STUD_AUCTION,ACTIVE,87e97198-3f95-468c-bcae-78fe0b0dae88,COLT ME DOWN,MALE,CE93D8,4,NAKAMOTO,3.0,0,0.0,,0,40a9ba26-c23a-4b4c-bebe-2d23e2517ae5
 9c3dea21-553a-49a1-a1b8-4c7e73f133c5,2025-06-29T21:31:18+00:00,2025-06-29T21:31:18+00:00,STUD_AUCTION,ACTIVE,2c5d5b5f-dd98-4d2a-b9c1-4fa73da59530,Hershey,MALE,7E57C2,2,SZABO,3.5,2,0.0,,0,ceeacf37-697f-4861-b1d0-693106255560
 94e2dd5f-ac1e-4a84-a025-ce1d47484b16,2025-06-29T21:30:23+00:00,2025-06-29T21:30:23+00:00,STUD_AUCTION,ACTIVE,df550a61-16ed-490a-9920-c9dda5e20a7e,Schnitzel Von Krumm,MALE,FFF9C4,2,FINNEY,4.0,0,0.0,,0,4ecb659d-7b36-4f62-ba99-79e37facd8dd
 03616f4b-8f37-414e-b692-4fb4ca3676fe,2025-06-29T21:13:39+00:00,2025-06-29T21:13:39+00:00,STUD_AUCTION,ACTIVE,ce8a320d-c793-45b0-8ce5-b6219c309a9b,Friendly Polar,MALE,7B1FA2,2,SZABO,3.0,2,100.0,BoJack Finder,1,d7aed759-8115-43dd-af1b-bf8b0dc6e010
