@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+1c4f980a-d9cf-4f7c-ae39-929606fc89f1,2025-06-29T18:56:06+00:00,2025-06-29T18:56:06+00:00,STUD_AUCTION,ACTIVE,a9b1885c-7dcf-4596-8895-002c77129392,Snow Storm,MALE,03A9F4,2,NAKAMOTO,3.0,0,0.0,,0,eb41fa13-43fa-4f8b-afd5-e57ac971fb00
 398fb594-734a-49a6-982a-1ce4835711c7,2025-06-29T18:50:32+00:00,2025-06-29T18:50:32+00:00,STUD_AUCTION,ACTIVE,d3a9a8ac-5530-4c49-9222-3b71567f79ea,Everlasting Love,MALE,00E5FF,0,SZABO,3.5,1,0.0,,0,eb41fa13-43fa-4f8b-afd5-e57ac971fb00
 d47eb2b7-e310-4b5e-aa6f-436b59524a69,2025-06-29T18:47:43+00:00,2025-06-29T18:47:43+00:00,STUD_AUCTION,ACTIVE,976e36b1-3a79-46f5-8cf8-f335d27bb5ac,Kobe,MALE,80DEEA,4,BUTERIN,4.0,0,0.0,,0,1fdf3fe6-7305-4a29-ad3f-2506223b4f80
 324b85cc-f726-4582-a273-b6475cf7c976,2025-06-29T18:23:40+00:00,2025-06-29T18:23:40+00:00,STUD_AUCTION,ACTIVE,be23b26b-b3b6-4af3-ba92-dbcd2a83e714,Enthusiastic Meteor,MALE,DCE775,1,FINNEY,3.0,0,0.0,,0,3d434f7e-d235-45ea-b399-ffbd990e94cf
