@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+f529c20d-be20-4c1a-935d-b1832a1adab9,2025-06-29T16:52:05+00:00,2025-06-29T16:52:05+00:00,STUD_AUCTION,ACTIVE,8b295e56-acc9-4bc4-b78b-88ac3f7ef19c,Ugly Bluff,MALE,AB47BC,1,SZABO,3.0,0,0.0,,0,e94a4224-c19a-4081-8814-b378f2c60405
 57e18838-a9df-4211-90be-9738668792ba,2025-06-29T16:50:58+00:00,2025-06-29T16:50:58+00:00,STUD_AUCTION,ACTIVE,cf8c9366-b93e-45b5-ad1c-0524bce4c0a4,Leonardo Dicaprio,MALE,00BCD4,3,SZABO,3.0,0,0.0,,0,80a4bf88-c314-49ce-86d2-ae45361768e8
 68a53ff6-fbeb-44dc-8a3e-07b701a6170a,2025-06-29T16:21:26+00:00,2025-06-29T16:21:26+00:00,STUD_AUCTION,ACTIVE,9e074516-3e9a-431b-aee2-21c9d2f37009,TD Smash,MALE,9C27B0,1,BUTERIN,3.5,0,0.0,,0,1cd50499-ccf7-499e-88d7-beb6aaacb67b
 236c9e7b-bcb4-4512-aef7-8650c5245782,2025-06-29T15:50:01+00:00,2025-06-29T15:50:01+00:00,STUD_AUCTION,ACTIVE,050b7c1c-9d0e-4748-b7d3-9ea64a2355b7,Johto,MALE,F06292,1,NAKAMOTO,3.0,2,0.0,,0,440b0f8c-49fc-4108-949b-510cad16bee0
