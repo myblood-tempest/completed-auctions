@@ -1,0 +1,21 @@
+{
+  "export_info": {
+    "date": "2025-06-27",
+    "timestamp": "2025-06-29T01:25:23.799394",
+    "total_records": 378,
+    "description": "Completed auctions that ended on 2025-06-27 UTC"
+  },
+  "auctions": [
+    {
+      "listing_id": "c55aa43d-1990-46b1-b420-881b90b5a340",
+      "end_time": "2025-06-27T23:52:58+00:00",
+      "settle_time": "2025-06-27T23:52:58+00:00",
+      "listing_type": "STUD_AUCTION",
+      "listing_state": "COMPLETE",
+      "horse_id": "ca0fd8e1-d59d-47a7-8eef-681fd0ea7b49",
+      "horse_name": "Night Jet",
+      "horse_gender": "MALE",
+      "hex_color": "000000",
+      "generation": 5,
+      "bloodline": "FINNEY",
+      "complete_rating": 
