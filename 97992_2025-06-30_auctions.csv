@@ -1,0 +1,5 @@
+listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+f0d5cebe-001e-4bb9-a683-851584fce7f5,2025-06-30T00:03:27+00:00,2025-06-30T00:03:27+00:00,STUD_AUCTION,ACTIVE,dc3f64c2-4faf-471f-8740-92e5c118fe35,Sage Advice,MALE,F06292,3,BUTERIN,2.5,0,0.0,,0,6e76acf3-04b6-494e-b156-c895d8f39715
+a2bb3a26-7e4d-4f3e-b49f-de91d5ecc879,2025-06-30T00:03:08+00:00,2025-06-30T00:03:08+00:00,STUD_AUCTION,ACTIVE,f49dd089-275a-4edb-84a8-98ff7f2337ec,Charging Rhinoceros,MALE,03A9F4,2,SZABO,3.0,0,0.0,,0,6e76acf3-04b6-494e-b156-c895d8f39715
+a0372a26-3d36-46c0-a84b-9d29fce41d45,2025-06-30T00:02:17+00:00,2025-06-30T00:02:17+00:00,STUD_AUCTION,ACTIVE,51ef2d2b-95c7-489f-819c-e36099e96347,Lovable Shoes,MALE,8E24AA,2,BUTERIN,3.0,1,0.0,,0,6cfa2043-6d3a-44fc-96de-e87b839c260a
+683ce0e1-dc1e-410b-86db-6a53af24b34a,2025-06-30T00:01:23+00:00,2025-06-30T00:01:23+00:00,STUD_AUCTION,ACTIVE,56b4bc1d-f3bf-4cc4-a6a0-e2fa61b5bf9c,Cisco Kid,MALE,BDBDBD,4,BUTERIN,3.0,0,0.0,,0,1b9fa9ad-4090-439e-8b7a-2d909017d87a
