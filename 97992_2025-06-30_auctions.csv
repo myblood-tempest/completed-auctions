@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+f9b24ccf-c025-48ee-89a4-0cac49b81b3b,2025-06-30T04:46:32+00:00,2025-06-30T04:46:32+00:00,STUD_AUCTION,ACTIVE,55ad508d-f63a-4eb9-a1eb-d0c32018f46d,Golden Buddha,MALE,FBC02D,2,FINNEY,3.5,0,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 db8bfa33-a639-48c2-8ab7-03324a1dc2b8,2025-06-30T04:38:54+00:00,2025-06-30T04:38:54+00:00,STUD_AUCTION,ACTIVE,0c6f6816-d89d-4f76-9b61-7de75b40e718,Vigorous Feudal,MALE,81D4FA,0,SZABO,3.0,0,0.0,,0,fdb058f3-b236-48d8-bb7d-43d3f81a7baf
 51afb8f1-fcde-4e87-8cc8-19ea023bae76,2025-06-30T04:33:31+00:00,2025-06-30T04:33:31+00:00,STUD_AUCTION,ACTIVE,416d84dd-5b1b-442a-b4be-64b0ec7470fa,Glowing Leather,MALE,F44336,2,FINNEY,3.0,1,0.0,,0,497b08a0-0c22-4f4a-b53b-3ba34d917dca
 25ca2ed5-4ba4-4b52-adef-3be8ad0887cc,2025-06-30T04:32:27+00:00,2025-06-30T04:32:27+00:00,STUD_AUCTION,ACTIVE,98a9206d-a4a3-425f-8884-238aaa918c90,Wonder,MALE,03A9F4,3,SZABO,3.5,0,0.0,,0,12f8f817-7847-4e77-9253-5a1e7a77f74a
