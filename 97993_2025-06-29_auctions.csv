@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+68a53ff6-fbeb-44dc-8a3e-07b701a6170a,2025-06-29T16:21:26+00:00,2025-06-29T16:21:26+00:00,STUD_AUCTION,ACTIVE,9e074516-3e9a-431b-aee2-21c9d2f37009,TD Smash,MALE,9C27B0,1,BUTERIN,3.5,0,0.0,,0,1cd50499-ccf7-499e-88d7-beb6aaacb67b
 236c9e7b-bcb4-4512-aef7-8650c5245782,2025-06-29T15:50:01+00:00,2025-06-29T15:50:01+00:00,STUD_AUCTION,ACTIVE,050b7c1c-9d0e-4748-b7d3-9ea64a2355b7,Johto,MALE,F06292,1,NAKAMOTO,3.0,2,0.0,,0,440b0f8c-49fc-4108-949b-510cad16bee0
 546830ee-27ac-4b10-81a4-71f3df795120,2025-06-29T15:27:44+00:00,2025-06-29T15:27:44+00:00,STUD_AUCTION,ACTIVE,1db205d1-6dcb-44ba-8908-9d4641f8a3e3,Bountiful Snowflake,MALE,7E57C2,1,BUTERIN,2.5,0,0.0,,0,66f4fb63-a4c7-4ebc-b7fa-d476859a260d
 6d402085-ecfb-457f-bbf9-95edf46a7c14,2025-06-29T15:24:23+00:00,2025-06-29T15:24:23+00:00,STUD_AUCTION,ACTIVE,60a56f61-2e43-4d5b-bfd1-7ba97c4fc520,Ghostly,MALE,FFF9C4,2,BUTERIN,3.0,0,150.0,Zestful Cadmus,1,e5145d57-4300-412a-8cae-4b5af8c67425
