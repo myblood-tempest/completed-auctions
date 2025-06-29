@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+9ea7939b-86bc-4677-bf43-b4c69390bad2,2025-06-29T15:09:19+00:00,2025-06-29T15:09:19+00:00,STUD_AUCTION,ACTIVE,39a2f11a-7829-45e5-b5c2-afc35e0e29c5,Happy 10 bucks,MALE,8E24AA,1,FINNEY,3.0,2,0.0,,0,8a576834-8b70-491e-adde-0465ebf933d2
 d8116e0c-2fac-40a3-8c5e-d80ba91e6d4e,2025-06-29T14:53:07+00:00,2025-06-29T14:53:07+00:00,STUD_AUCTION,ACTIVE,5891f694-9385-4c8f-bf8e-1c076b73ffa0,Wet and Forget,MALE,00ACC1,3,SZABO,3.0,1,0.0,,0,69888ecd-b0b8-4de2-84e3-c1c0996e401d
 d859445f-0825-4a18-917a-3ae1672ac92d,2025-06-29T14:52:58+00:00,2025-06-29T14:52:58+00:00,STUD_AUCTION,ACTIVE,2e4679d6-c93b-4f79-8ec1-0d0bd173ba11,Bring the heat,MALE,4FC3F7,0,SZABO,3.0,1,0.0,,0,69888ecd-b0b8-4de2-84e3-c1c0996e401d
 5a897ae8-6c95-4395-a99f-fbecc8f6e24a,2025-06-29T14:45:54+00:00,2025-06-29T14:45:54+00:00,STUD_AUCTION,ACTIVE,59751af1-2c1a-47c0-a307-5197df5f86a6,Obliging Pie,MALE,FBC02D,3,FINNEY,3.0,0,0.0,,0,c087a3a1-4eec-41b1-920d-114070ccaf02
