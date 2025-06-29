@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+e13eaa12-7712-4ed4-8093-f659740536a9,2025-06-29T20:11:44+00:00,2025-06-29T20:11:44+00:00,STUD_AUCTION,ACTIVE,20756b5e-330e-4daa-8536-e44237aea3e8,Affectionate Acoustic,MALE,FFFDE7,3,SZABO,3.0,0,0.0,,0,fa6f4612-f668-46b2-8ead-41d06f702dde
 59cb99b9-9e72-4c20-b518-0e9a552602c6,2025-06-29T20:06:34+00:00,2025-06-29T20:06:34+00:00,STUD_AUCTION,ACTIVE,3b44e686-0e0e-46b3-8ad3-61b29108cbd8,Ferret,MALE,8E24AA,3,FINNEY,3.0,1,0.0,,0,76e5651b-1a30-448d-8316-73acb5c902cd
 19d97b36-5b6d-40d6-9e07-3d87d191795a,2025-06-29T20:04:02+00:00,2025-06-29T20:04:02+00:00,STUD_AUCTION,ACTIVE,0c6f6816-d89d-4f76-9b61-7de75b40e718,Vigorous Feudal,MALE,81D4FA,0,SZABO,3.0,1,0.0,,0,fdb058f3-b236-48d8-bb7d-43d3f81a7baf
 e9ae3513-58f2-41e9-8a72-8d10843c02f5,2025-06-29T20:03:00+00:00,2025-06-29T20:03:00+00:00,STUD_AUCTION,ACTIVE,012c5edd-6140-4403-bd53-1e2804da9448,Balanced Casual,MALE,0288D1,5,NAKAMOTO,3.0,0,100.0,Responsive Citrus,1,ce129fd0-1e30-415c-b392-2f82694b4bff
