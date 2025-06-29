@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+ee85102b-62f2-4563-904e-c6b30fe1b25b,2025-06-30T00:14:38+00:00,2025-06-30T00:14:38+00:00,STUD_AUCTION,ACTIVE,62e23d2b-84e0-4864-8d14-9e42527656db,Likeable Steak,MALE,7B1FA2,4,FINNEY,2.5,0,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 fc639729-6ffb-4003-a998-e1e703a4d029,2025-06-30T00:09:06+00:00,2025-06-30T00:09:06+00:00,STUD_AUCTION,ACTIVE,39a2f11a-7829-45e5-b5c2-afc35e0e29c5,Happy 10 bucks,MALE,8E24AA,1,FINNEY,3.0,1,0.0,,0,8a576834-8b70-491e-adde-0465ebf933d2
 02309b71-d5f8-4acf-afdf-7b7d4b6aa6a1,2025-06-30T00:08:07+00:00,2025-06-30T00:08:07+00:00,STUD_AUCTION,ACTIVE,654b3f4a-e793-4a6b-8059-e78193765db9,MyFree 10 buck horse,MALE,F44336,0,NAKAMOTO,3.0,2,0.0,,0,8a576834-8b70-491e-adde-0465ebf933d2
 ffd1025e-aef7-4345-9fdb-aa6797e9aa8a,2025-06-30T00:07:38+00:00,2025-06-30T00:07:38+00:00,STUD_AUCTION,ACTIVE,72694784-33e2-4657-9fe2-b31ea762364b,Delightful Harp,MALE,FBC02D,2,FINNEY,3.0,0,0.0,,0,6e76acf3-04b6-494e-b156-c895d8f39715
