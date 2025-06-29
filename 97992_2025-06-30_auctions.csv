@@ -1,4 +1,6 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+51afb8f1-fcde-4e87-8cc8-19ea023bae76,2025-06-30T04:33:31+00:00,2025-06-30T04:33:31+00:00,STUD_AUCTION,ACTIVE,416d84dd-5b1b-442a-b4be-64b0ec7470fa,Glowing Leather,MALE,F44336,2,FINNEY,3.0,1,0.0,,0,497b08a0-0c22-4f4a-b53b-3ba34d917dca
+25ca2ed5-4ba4-4b52-adef-3be8ad0887cc,2025-06-30T04:32:27+00:00,2025-06-30T04:32:27+00:00,STUD_AUCTION,ACTIVE,98a9206d-a4a3-425f-8884-238aaa918c90,Wonder,MALE,03A9F4,3,SZABO,3.5,0,0.0,,0,12f8f817-7847-4e77-9253-5a1e7a77f74a
 aceb17ae-8079-4615-8a24-dcaef6392b70,2025-06-30T04:20:05+00:00,2025-06-30T04:20:05+00:00,STUD_AUCTION,ACTIVE,0c5bc55c-2a69-4e43-b12e-bfb87dd96bc3,Blazing Bounty,MALE,9C27B0,1,FINNEY,3.5,0,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 14ab5416-1bcd-4de9-945a-544655bdac12,2025-06-30T04:06:38+00:00,2025-06-30T04:06:38+00:00,STUD_AUCTION,ACTIVE,da5766f1-e9bf-4cca-b9c5-b02a7e7161a4,Understanding Daphne,MALE,E57373,3,SZABO,3.5,0,0.0,,0,078ed0ad-b2f8-4910-9617-987483fc1c8c
 f01c69e3-792d-4612-a641-4cdccf0da57e,2025-06-30T03:52:33+00:00,2025-06-30T03:52:33+00:00,STUD_AUCTION,ACTIVE,ade36276-758a-449d-a620-31b076120cda,Pleasing Alchemist,MALE,2962FF,0,SZABO,3.0,4,0.0,,0,86e856b8-7d58-4cba-94fd-fa1c2cd15d5b
