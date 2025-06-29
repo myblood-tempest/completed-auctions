@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+64a3990e-ad31-4551-a742-9a41a2658920,2025-06-30T02:28:25+00:00,2025-06-30T02:28:25+00:00,STUD_AUCTION,ACTIVE,0be728d6-b028-4e13-9a92-dd86fd270d11,Blue Roan,MALE,00BCD4,0,SZABO,3.0,1,0.0,,0,71befdac-95da-4eb7-9bb4-0fc95ee5230e
 4cc62d7e-1a0f-4d39-aaa2-20468b3fcef6,2025-06-30T02:11:40+00:00,2025-06-30T02:11:40+00:00,STUD_AUCTION,ACTIVE,59d1cc14-7dd3-4106-bc82-560d12a13c11,Sun Spirit,MALE,0288D1,0,SZABO,3.0,1,0.0,,0,ec4212af-ccd1-4d33-9e74-19133ca91dd7
 7c5aaff4-4b06-488a-aa95-a4fd0f1e4eb4,2025-06-30T02:10:41+00:00,2025-06-30T02:10:41+00:00,STUD_AUCTION,ACTIVE,6c02057f-9da4-48b0-b264-8742c0e3f81f,Sunny Fennel,MALE,B39DDB,3,NAKAMOTO,3.5,0,0.0,,0,6df05982-8638-495b-9b29-8777e597a45c
 fcfeaa8c-fddf-41fe-8462-33129d214a96,2025-06-30T02:10:04+00:00,2025-06-30T02:10:04+00:00,STUD_AUCTION,ACTIVE,f56dfff4-d364-49d0-a603-282e5f7f1f3a,Lawrence of Arabia,MALE,D32F2F,1,FINNEY,3.5,3,0.0,,0,ec4212af-ccd1-4d33-9e74-19133ca91dd7
