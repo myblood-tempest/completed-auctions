@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+fd9dfd82-559c-41ff-afa9-24034e1f6bca,2025-06-29T19:25:41+00:00,2025-06-29T19:25:41+00:00,STUD_AUCTION,ACTIVE,7f40169d-f8ab-44e7-a9a4-06675b4b7dfd,Pure Blood,MALE,EF5350,1,NAKAMOTO,3.5,2,0.0,,0,0368a6e0-a23c-4527-bd1c-38c79d51fcb4
 c35ede6b-a656-4d01-977e-c5e008352a31,2025-06-29T19:21:43+00:00,2025-06-29T19:21:43+00:00,STUD_AUCTION,ACTIVE,a37e2077-6af2-42c3-95ba-c47feed95313,Humorous Linen,MALE,EF5350,2,NAKAMOTO,3.0,0,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
 65550b28-ef50-4852-9dd7-bc4d61e11f74,2025-06-29T19:17:00+00:00,2025-06-29T19:17:00+00:00,STUD_AUCTION,ACTIVE,f90ee76e-e5d7-4c85-bbc4-7d6235f66e3f,Untroubled Foyer,MALE,FFFFFF,3,BUTERIN,3.0,2,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
 da86f262-21e4-4407-a5a8-d2ad535690e3,2025-06-29T19:16:07+00:00,2025-06-29T19:16:07+00:00,STUD_AUCTION,ACTIVE,f66fbf5e-a537-4faa-9c79-d85cca4dfa07,BoJack Horseman,MALE,F44336,1,NAKAMOTO,3.5,0,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
