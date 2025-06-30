@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+e3bc0ae9-d857-4df4-b791-6403725901b3,2025-06-30T09:35:19+00:00,2025-06-30T09:35:19+00:00,STUD_AUCTION,ACTIVE,dee953ae-5f6b-43aa-9c67-d1143351f857,Chrome Country,MALE,9C27B0,4,SZABO,3.5,0,0.0,,0,4d6590fb-caf2-42cd-8efe-1d9025058a19
 3cceb54f-5a84-4228-9b07-5f1525c0f2ab,2025-06-30T09:21:06+00:00,2025-06-30T09:21:06+00:00,STUD_AUCTION,ACTIVE,2c5d5b5f-dd98-4d2a-b9c1-4fa73da59530,Hershey,MALE,7E57C2,2,SZABO,3.5,1,0.0,,0,ceeacf37-697f-4861-b1d0-693106255560
 119a01c9-bd21-48b9-ab3e-afe6bba7fbb8,2025-06-30T09:20:33+00:00,2025-06-30T09:20:33+00:00,STUD_AUCTION,ACTIVE,fa734d2c-a7d5-4b30-a57f-2a933f0b6598,Simon,MALE,8E24AA,2,FINNEY,3.5,0,0.0,,0,ceeacf37-697f-4861-b1d0-693106255560
 812e5c4c-8630-44b7-97a2-7d986209b881,2025-06-30T09:18:45+00:00,2025-06-30T09:18:45+00:00,STUD_AUCTION,ACTIVE,560e3f44-3c45-478b-9d54-4a1c5482c12b,Alp whos that boy,MALE,FBC02D,1,BUTERIN,3.5,0,0.0,,0,ae631737-9040-4bc7-8275-c6e9d3961da6
