@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+767c53a5-5400-4f02-98f6-862e450fb3d1,2025-07-01T03:42:46+00:00,2025-07-01T03:42:46+00:00,STUD_AUCTION,ACTIVE,4d4c533c-b207-418f-af17-33ab63b9753c,CT860,MALE,7B1FA2,4,FINNEY,3.5,0,0.0,,0,40a9ba26-c23a-4b4c-bebe-2d23e2517ae5
 9b621c27-de9b-4fc3-bb46-7866f2b6ebf3,2025-07-01T03:39:14+00:00,2025-07-01T03:39:14+00:00,STUD_AUCTION,ACTIVE,1376bdfc-0df7-4fee-99e4-b59807fe517d,Tank,MALE,E91E63,4,NAKAMOTO,4.0,7,0.0,,0,0368a6e0-a23c-4527-bd1c-38c79d51fcb4
 9b3aafb3-3fd2-489a-8ee5-583b223eac9b,2025-07-01T03:28:06+00:00,2025-07-01T03:28:06+00:00,STUD_AUCTION,ACTIVE,cb675feb-dd7d-4455-9d0c-36bb3e00e7d0,Blue Jay Way,MALE,00BCD4,0,SZABO,3.0,4,200.0,Dear Prudence,1,16a420e9-65d1-418e-85b6-fbe5f05c3058
 ea274632-79c1-4643-b8d2-525428ef7ec5,2025-07-01T03:16:35+00:00,2025-07-01T03:16:35+00:00,STUD_AUCTION,ACTIVE,c9f644bf-b35d-423f-88c4-17112e00bb19,Smiling Stiletto,MALE,FBC02D,1,BUTERIN,2.5,2,0.0,,0,d6551c2d-525b-4d71-a90b-202753dfe4c5
