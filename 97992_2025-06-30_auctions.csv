@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+f0599c61-ae57-479b-b0ae-a73aa7df49b8,2025-06-30T23:06:38+00:00,2025-06-30T23:06:38+00:00,STUD_AUCTION,ACTIVE,0d4f0d0e-f9d0-4be0-bdaf-39ee8a6a8217,Gas Man,MALE,7E57C2,2,FINNEY,3.5,0,0.0,,0,e4983c52-0694-4278-9445-c7fe69c52715
 12dd55d0-12d0-4b88-9fdd-71c3fb13302b,2025-06-30T23:02:11+00:00,2025-06-30T23:02:11+00:00,STUD_AUCTION,ACTIVE,f3d803e3-0202-4507-9363-ab2077fc1643,Smokin Gun,MALE,29B6F6,0,SZABO,3.5,3,0.0,,0,1be88eb7-3167-49eb-b512-041cba739cbf
 41b26997-4d46-493b-8af5-5fdb9724d56e,2025-06-30T22:48:01+00:00,2025-06-30T22:48:01+00:00,STUD_AUCTION,ACTIVE,8b663fc9-59d2-43ba-8a42-a2b8642e1faa,Dr Fauci,MALE,FDD835,0,BUTERIN,3.0,0,0.0,,0,ba7a5fcc-87a3-4e94-93c0-b0c11c7e4cb6
 0b77768f-50dc-4ed1-ba0d-c0d385b410cb,2025-06-30T22:45:34+00:00,2025-06-30T22:45:34+00:00,STUD_AUCTION,ACTIVE,70dcf18a-a390-460a-8d9b-b85d209e3ae7,Laughing Hyena,MALE,0288D1,4,BUTERIN,3.0,0,0.0,,0,5cfff332-d348-47db-b958-127d28e29912
