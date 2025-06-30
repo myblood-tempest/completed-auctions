@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+0b77768f-50dc-4ed1-ba0d-c0d385b410cb,2025-06-30T22:45:34+00:00,2025-06-30T22:45:34+00:00,STUD_AUCTION,ACTIVE,70dcf18a-a390-460a-8d9b-b85d209e3ae7,Laughing Hyena,MALE,0288D1,4,BUTERIN,3.0,0,0.0,,0,5cfff332-d348-47db-b958-127d28e29912
 408e3900-cba2-44d2-8a41-81af98660a7a,2025-06-30T22:40:55+00:00,2025-06-30T22:40:55+00:00,STUD_AUCTION,ACTIVE,3fcc4d1c-2aa8-4cb8-9fb9-b75679deea3a,Good Ol Boy,MALE,AB47BC,1,FINNEY,3.0,0,0.0,,0,69f19525-4ac2-426f-9baf-02f752b01bb5
 8e21d8dc-46fa-48cb-a1d6-c359be8a542e,2025-06-30T22:28:59+00:00,2025-06-30T22:28:59+00:00,STUD_AUCTION,ACTIVE,3a4936ef-fabc-4c2b-8152-1a80f126a7bc,Laughing Astrology,MALE,FBC02D,2,BUTERIN,3.5,0,0.0,,0,b501b95c-c200-47ae-91f6-530321e9af31
 55cf423c-b034-41ff-98a4-804b89ab0171,2025-06-30T22:16:51+00:00,2025-06-30T22:16:51+00:00,STUD_AUCTION,ACTIVE,22cf2683-268b-4b9a-a7b5-353ac1a792ef,Loving Sausage,MALE,D32F2F,0,NAKAMOTO,3.5,3,0.0,,0,b501b95c-c200-47ae-91f6-530321e9af31
