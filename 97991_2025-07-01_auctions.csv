@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+86ebccc7-53b4-4fe1-a26d-30ce823c38af,2025-07-01T07:16:32+00:00,2025-07-01T07:16:32+00:00,STUD_AUCTION,ACTIVE,dee953ae-5f6b-43aa-9c67-d1143351f857,Chrome Country,MALE,9C27B0,4,SZABO,3.5,0,0.0,,0,4d6590fb-caf2-42cd-8efe-1d9025058a19
 d691b677-d0a9-437e-b4d0-ebb8e9dfa8b1,2025-07-01T06:54:02+00:00,2025-07-01T06:54:02+00:00,STUD_AUCTION,ACTIVE,7e6919d8-46cf-4e58-a11d-12caa91a6b4d,Jergins,MALE,AB47BC,3,SZABO,3.0,0,0.0,,0,7c3ad3aa-d320-47a8-8e16-b06048316915
 0c3583e4-7c62-438c-ac4c-2c9b3b2140ff,2025-07-01T06:35:52+00:00,2025-07-01T06:35:52+00:00,STUD_AUCTION,ACTIVE,e4636bb5-6d4b-44d6-838b-d0f3b94836ec,The Circus,MALE,F06292,2,NAKAMOTO,4.0,1,0.0,,0,e460f23f-191b-4ef4-8152-f7cf97c652d6
 8f67c7e7-d8b4-4ba1-857f-400680e93cb3,2025-07-01T06:33:13+00:00,2025-07-01T06:33:13+00:00,STUD_AUCTION,ACTIVE,6f2d723f-dd94-4a62-b5f1-738e5c7e5e5c,Bubbly Lyra,MALE,E53935,2,NAKAMOTO,3.5,0,0.0,,0,77c73bec-3021-4d68-90c1-0979acd41dcd
