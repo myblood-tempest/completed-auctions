@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+c1ffc3cc-6657-44ef-913c-8632fb4e0c4e,2025-06-30T23:48:24+00:00,2025-06-30T23:48:24+00:00,STUD_AUCTION,ACTIVE,dbe629cc-8db7-46fc-b8ac-064af504593c,Lucid Methodology,MALE,9C27B0,2,FINNEY,3.0,1,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 0d8dc3a4-9343-4051-9276-c26f39994862,2025-06-30T23:38:54+00:00,2025-06-30T23:38:54+00:00,STUD_AUCTION,ACTIVE,1964090c-544b-4034-9f0a-4de52521c2f3,Complimentary Ornament,MALE,9C27B0,1,BUTERIN,3.0,2,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 a1f6b850-82a4-4f5b-b454-0c262f125e2e,2025-06-30T23:36:08+00:00,2025-06-30T23:36:08+00:00,STUD_AUCTION,ACTIVE,97aff631-35d3-4d31-bfa8-b9dbe1008ab8,Blissful Minerva,MALE,26C6DA,2,NAKAMOTO,3.0,1,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 60767ed3-5051-4b41-8906-02a0120a619a,2025-06-30T23:30:21+00:00,2025-06-30T23:30:21+00:00,STUD_AUCTION,ACTIVE,453f5233-f2ae-450a-b43e-d2b0c346a26f,Flying Monkey,MALE,CDDC39,0,BUTERIN,3.0,0,0.0,,0,b0446678-8bd4-4b33-9f5e-2cb72d3aa90e
