@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+284974c5-e135-4ca6-879c-e547523aa1bf,2025-06-30T10:33:29+00:00,2025-06-30T10:33:29+00:00,STUD_AUCTION,ACTIVE,5a84b447-17e9-4336-8587-3e2a65de97fd,Magna Guardsman,MALE,D50000,2,SZABO,3.5,0,0.0,,0,a7a98add-cc67-43ef-8a9c-981a5b516e6e
 baf794b1-fc22-439f-ae76-fbb60573ea11,2025-06-30T10:27:22+00:00,2025-06-30T10:27:22+00:00,STUD_AUCTION,ACTIVE,8373e87d-9df6-4bf9-a793-58a80f71deff,Tranquil Cherry,MALE,512DA8,1,FINNEY,2.5,0,0.0,,0,14448d4e-5eea-4ac3-afb6-85ae8c870611
 30020115-4449-4fc5-8074-52710c7fc50b,2025-06-30T10:11:42+00:00,2025-06-30T10:11:42+00:00,STUD_AUCTION,ACTIVE,253a91bb-5948-4afa-855b-aba19cfe87e8,Beneficial Stretch,MALE,80DEEA,0,SZABO,3.5,1,0.0,,0,b62d99de-b45c-40e2-9ecd-e31351b51312
 c04b4778-0237-4b54-bf34-75759ccfef94,2025-06-30T10:01:18+00:00,2025-06-30T10:01:18+00:00,STUD_AUCTION,ACTIVE,de2c8632-e558-4cd6-a0f0-37a0cfda361a,Fire Scene,MALE,039BE5,3,FINNEY,3.5,1,0.0,,0,c52fb25c-c46b-4b98-aa27-0dc72f59f109
