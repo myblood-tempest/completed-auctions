@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+b36a219d-62ac-4016-80c8-8fbc2eb61961,2025-06-30T16:35:05+00:00,2025-06-30T16:35:05+00:00,STUD_AUCTION,ACTIVE,06870a33-97bd-4754-8e52-45f55ad65d69,Respectable Shaft,MALE,F9A825,2,BUTERIN,2.5,2,0.0,,0,66f4fb63-a4c7-4ebc-b7fa-d476859a260d
 23539dae-46f9-41d7-817c-fecec877d2c5,2025-06-30T16:24:51+00:00,2025-06-30T16:24:51+00:00,STUD_AUCTION,ACTIVE,1ba70501-c957-4436-ac52-cb5e06b7937b,Tussle Too,MALE,29B6F6,2,SZABO,4.0,1,0.0,,0,03f99bcb-ec62-4f42-9caa-c6f3977f8935
 440e097d-691f-4a6a-81eb-f078beec5fd9,2025-06-30T16:23:46+00:00,2025-06-30T16:23:46+00:00,STUD_AUCTION,ACTIVE,c0823696-d724-4a70-bbb5-2009bc198065,The Mountain,MALE,7C4DFF,3,BUTERIN,3.0,1,0.0,,0,db2f7f25-7422-4e2b-93d0-d679d6a07a68
 f2340987-0d33-42aa-b9aa-0faf1e13da65,2025-06-30T16:20:26+00:00,2025-06-30T16:20:26+00:00,STUD_AUCTION,ACTIVE,f8b63138-f43a-4fc3-b666-6acf4ea82c75,AllNatural,MALE,E91E63,0,NAKAMOTO,3.0,4,0.0,,0,7b015e44-11bf-4b96-8364-490a23dae425
