@@ -1,0 +1,4 @@
+listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+8e428068-0094-4f78-b8df-9cdbfc9917db,2025-07-01T00:12:04+00:00,2025-07-01T00:12:04+00:00,STUD_AUCTION,ACTIVE,caf41ef1-69e3-43ec-90eb-41bbdf6b1772,Mostly a Dragon ðð²,MALE,03A9F4,1,FINNEY,2.5,2,0.0,,0,f067821d-77cb-4d52-9ef8-9ba5fea7257a
+bbd16dc7-b15c-4567-9bcd-116765a5402e,2025-07-01T00:11:40+00:00,2025-07-01T00:11:40+00:00,STUD_AUCTION,ACTIVE,66f52552-2b94-427c-9abe-b72df9ade538,Octo Dragonðð²,MALE,81D4FA,3,SZABO,3.0,1,0.0,,0,f067821d-77cb-4d52-9ef8-9ba5fea7257a
+752c897d-5a2e-47f2-872c-537f0c1b4ca9,2025-07-01T00:11:14+00:00,2025-07-01T00:11:14+00:00,STUD_AUCTION,ACTIVE,068a20d6-022a-473a-99cb-4ba2fbad52d5,Double Dragonðð,MALE,00BCD4,2,BUTERIN,3.0,2,0.0,,0,f067821d-77cb-4d52-9ef8-9ba5fea7257a
