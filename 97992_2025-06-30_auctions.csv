@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+66085362-3a1b-49d7-9ba3-fd1dc6171741,2025-06-30T20:01:52+00:00,2025-06-30T20:01:52+00:00,STUD_AUCTION,ACTIVE,02312d71-afdc-45b5-abfb-1d643f9ef92a,Passionate Medallion,MALE,E57373,3,BUTERIN,2.5,1,0.0,,0,de7958af-5dbb-478c-85b7-4f727e62f8a2
 6ebfb9ad-600c-48ea-9b66-38ff9203ab64,2025-06-30T19:57:16+00:00,2025-06-30T19:57:16+00:00,STUD_AUCTION,ACTIVE,38779b20-cb09-4b64-befd-8d6241a72e3b,Truthful Diplomacy,MALE,F44336,2,FINNEY,4.0,2,0.0,,0,62594325-4a6c-41e5-bcf7-071fd15aba7e
 5ddfba16-6523-42bb-96f2-a218be09200a,2025-06-30T19:49:58+00:00,2025-06-30T19:49:58+00:00,STUD_AUCTION,ACTIVE,0906b185-4937-4244-97cb-10ffb4fbd349,Crafty Foundation,MALE,B39DDB,0,FINNEY,3.5,0,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 9f08cb53-0690-4000-9137-dade94a3384a,2025-06-30T19:49:11+00:00,2025-06-30T19:49:11+00:00,STUD_AUCTION,ACTIVE,1bea5442-02a5-4226-afea-eb19792f574e,Helios,MALE,FF1744,1,NAKAMOTO,3.5,1,100.0,Best Result,1,0c610479-f199-4ec5-9649-ad340c356e72
