@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+8b7a7cb4-7c74-4e8b-9717-19bbbcc74e99,2025-06-30T17:02:02+00:00,2025-06-30T17:02:02+00:00,STUD_AUCTION,ACTIVE,2e9bd38b-73da-4d90-aaf9-c25b43051335,#PlayPlanetX,MALE,8E24AA,2,FINNEY,3.0,2,0.0,,0,4858e345-1d41-4cef-9726-1fdce4000507
 6894ee8d-8d48-48a0-826d-fe1030911cb6,2025-06-30T16:53:28+00:00,2025-06-30T16:53:28+00:00,STUD_AUCTION,ACTIVE,886bd605-481d-444c-8698-5acabdaa9843,Lucid Nereus,MALE,E57373,2,SZABO,3.0,0,0.0,,0,078ed0ad-b2f8-4910-9617-987483fc1c8c
 e7d57dbf-ffd8-4a35-af72-c945ccc9ce1e,2025-06-30T16:53:16+00:00,2025-06-30T16:53:16+00:00,STUD_AUCTION,ACTIVE,ebd8738a-8c92-4082-9422-321d235924c8,Ebullient Kepler,MALE,FDD835,2,NAKAMOTO,3.0,0,0.0,,0,078ed0ad-b2f8-4910-9617-987483fc1c8c
 66d622fe-6fb8-47e2-89da-dc2b1a503c4b,2025-06-30T16:53:06+00:00,2025-06-30T16:53:06+00:00,STUD_AUCTION,ACTIVE,da5766f1-e9bf-4cca-b9c5-b02a7e7161a4,Understanding Daphne,MALE,E57373,3,SZABO,3.5,0,0.0,,0,078ed0ad-b2f8-4910-9617-987483fc1c8c
