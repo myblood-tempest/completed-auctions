@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+4e41a2c4-4709-45c7-b0de-e86c39c47f5c,2025-07-01T00:18:35+00:00,2025-07-01T00:18:35+00:00,STUD_AUCTION,ACTIVE,4e87750b-b1e2-49d0-87e3-99fa33f2c960,Magnanimous Accessory,MALE,F50057,4,NAKAMOTO,3.5,2,100.0,Amicable Wolverine,1,ce129fd0-1e30-415c-b392-2f82694b4bff
 d05eef61-3d2f-4b21-9840-543b233e15b5,2025-07-01T00:14:16+00:00,2025-07-01T00:14:16+00:00,STUD_AUCTION,ACTIVE,9f5c65ed-438f-4d2a-bbb8-71d102f8025d,Ole Yella,MALE,C0CA33,0,BUTERIN,3.0,0,0.0,,0,c18e199d-613d-4526-8eb3-0887d8d21c7e
 9937f2a2-757a-494d-a9b9-75dace7b5cb0,2025-07-01T00:13:54+00:00,2025-07-01T00:13:54+00:00,STUD_AUCTION,ACTIVE,faaad877-7e34-4ca7-a05c-6c76303dc640,Purple Prince,MALE,673AB7,4,FINNEY,3.5,0,0.0,,0,c18e199d-613d-4526-8eb3-0887d8d21c7e
 8e428068-0094-4f78-b8df-9cdbfc9917db,2025-07-01T00:12:04+00:00,2025-07-01T00:12:04+00:00,STUD_AUCTION,ACTIVE,caf41ef1-69e3-43ec-90eb-41bbdf6b1772,Mostly a Dragon ðð²,MALE,03A9F4,1,FINNEY,2.5,2,0.0,,0,f067821d-77cb-4d52-9ef8-9ba5fea7257a
