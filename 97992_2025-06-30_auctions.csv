@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+c04b4778-0237-4b54-bf34-75759ccfef94,2025-06-30T10:01:18+00:00,2025-06-30T10:01:18+00:00,STUD_AUCTION,ACTIVE,de2c8632-e558-4cd6-a0f0-37a0cfda361a,Fire Scene,MALE,039BE5,3,FINNEY,3.5,1,0.0,,0,c52fb25c-c46b-4b98-aa27-0dc72f59f109
 9c34ac73-18aa-4bca-879d-955ddde28b6c,2025-06-30T09:54:39+00:00,2025-06-30T09:54:39+00:00,STUD_AUCTION,ACTIVE,3a6b8311-e1fe-4b35-a4ca-ba25e299b693,No Fear,MALE,D4E157,4,BUTERIN,3.5,0,0.0,,0,89659879-a5e9-4f02-8b60-40574aceddde
 7557840b-7723-4a8d-85e4-14c686c643ac,2025-06-30T09:54:06+00:00,2025-06-30T09:54:06+00:00,STUD_AUCTION,ACTIVE,ec398d04-28ca-40f6-baec-188b2954d7c4,Paradise City,MALE,039BE5,4,NAKAMOTO,3.5,0,0.0,,0,89659879-a5e9-4f02-8b60-40574aceddde
 1c6cb984-278c-444c-9abd-e2589be73413,2025-06-30T09:51:26+00:00,2025-06-30T09:51:26+00:00,STUD_AUCTION,ACTIVE,d16bd63f-d45a-4f21-bbf4-1cb4ece50cdc,Olentia,MALE,FF1744,4,NAKAMOTO,3.5,0,0.0,,0,12fbcef8-1d53-408d-a38b-50ef7490aa3a
