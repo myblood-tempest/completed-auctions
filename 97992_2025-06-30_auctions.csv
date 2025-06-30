@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+4ffcf746-8437-4026-ae8b-cda67d398fe9,2025-06-30T18:39:02+00:00,2025-06-30T18:39:02+00:00,STUD_AUCTION,ACTIVE,5e30f868-6800-46e4-9ac6-51638c3b3bda,Sunny Dog,MALE,0097A7,4,FINNEY,3.5,0,0.0,,0,61f5cf67-262b-4018-a84e-a2ce8e3be1b3
 499abdc9-d922-4987-8437-b0ffbfde4e60,2025-06-30T18:34:57+00:00,2025-06-30T18:34:57+00:00,STUD_AUCTION,ACTIVE,a4600539-0dae-483c-930d-e5ba6fbda641,Youthful Channel,MALE,00E5FF,0,SZABO,3.0,3,0.0,,0,6a53e972-8e24-49b9-a0e5-15fdcf9aac7e
 3b400605-7a91-4fd0-90f5-fd8cc3d93617,2025-06-30T18:28:26+00:00,2025-06-30T18:28:26+00:00,STUD_AUCTION,ACTIVE,50a2d9e5-54d5-4bfd-9285-7cf6c70ea027,Actual Comfortable,MALE,80DEEA,0,SZABO,3.5,2,0.0,,0,e94a4224-c19a-4081-8814-b378f2c60405
 85a6a6bb-9267-4d1d-9623-4d2babdabba0,2025-06-30T18:20:24+00:00,2025-06-30T18:20:24+00:00,STUD_AUCTION,ACTIVE,92dbfe0e-19a6-4ebb-a06f-6825d019b9ce,Zefferro Rain,MALE,7B1FA2,0,FINNEY,3.0,0,0.0,,0,ecccefad-0bf5-4225-961e-4512f22f78a5
