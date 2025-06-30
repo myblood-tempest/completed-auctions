@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+e66a16df-017e-44d2-b143-6ed7f9eeaaea,2025-06-30T15:54:29+00:00,2025-06-30T15:54:29+00:00,STUD_AUCTION,ACTIVE,435db3fc-87dd-4dae-abd8-a1648dcc82b5,Golden One,MALE,FBC02D,6,FINNEY,3.0,0,0.0,,0,f259cafa-7ff2-49bc-be73-05772f3b9ae8
 7cce79ef-e753-406f-970c-c0635343c31c,2025-06-30T15:38:15+00:00,2025-06-30T15:38:15+00:00,STUD_AUCTION,ACTIVE,da235087-95bb-4ca8-99b6-3c1ad1ba9b3e,Yearning Ceres,MALE,7B1FA2,2,FINNEY,3.0,2,0.0,,0,c97e4e1d-f217-46cf-b15f-cb9d61536396
 2d6bb646-7fc2-4049-ab56-f4fe4538362a,2025-06-30T15:18:47+00:00,2025-06-30T15:18:47+00:00,STUD_AUCTION,ACTIVE,45dc1d23-9222-4288-95c4-e9e85072dc54,Ugly Skew,MALE,F50057,1,SZABO,3.5,1,0.0,,0,e94a4224-c19a-4081-8814-b378f2c60405
 ec7eae7b-255a-433e-aa35-f39d7f8cae63,2025-06-30T15:12:38+00:00,2025-06-30T15:12:38+00:00,STUD_AUCTION,ACTIVE,ed096908-c1f9-4bf8-92dd-8ab6644225de,Wholesome,MALE,512DA8,2,FINNEY,3.5,0,0.0,,0,61f5cf67-262b-4018-a84e-a2ce8e3be1b3
