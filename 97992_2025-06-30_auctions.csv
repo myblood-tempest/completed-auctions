@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+3a79bdc9-cb5b-4efa-9ea9-c0fcccf4da97,2025-06-30T11:13:18+00:00,2025-06-30T11:13:18+00:00,STUD_AUCTION,ACTIVE,c7b146e9-408a-4cca-a6ca-4f30fa20d4ae,ðJesterð,MALE,F44336,2,BUTERIN,3.5,0,0.0,,0,51efbc37-5d01-4438-b52d-c70168983ae2
 2f9d0000-22fd-43f8-b6bb-071c3e3e274c,2025-06-30T11:01:17+00:00,2025-06-30T11:01:17+00:00,STUD_AUCTION,ACTIVE,0987e117-6a82-4d15-89ea-020420d72c3d,Openminded Trousers,MALE,C6FF00,0,BUTERIN,3.0,4,0.0,,0,7a74a86f-722d-4fcc-904c-f27a4d8d8812
 4713eb6d-9f2f-48f1-a69a-911aeb5cd622,2025-06-30T10:55:43+00:00,2025-06-30T10:55:43+00:00,STUD_AUCTION,ACTIVE,f1a7ad92-2a98-4809-882a-f1d9c3093e39,Royal Gem,MALE,4DD0E1,1,SZABO,4.0,3,0.0,,0,8b932cef-9ab6-448c-9f8c-7be3218c6b44
 284974c5-e135-4ca6-879c-e547523aa1bf,2025-06-30T10:33:29+00:00,2025-06-30T10:33:29+00:00,STUD_AUCTION,ACTIVE,5a84b447-17e9-4336-8587-3e2a65de97fd,Magna Guardsman,MALE,D50000,2,SZABO,3.5,0,0.0,,0,a7a98add-cc67-43ef-8a9c-981a5b516e6e
