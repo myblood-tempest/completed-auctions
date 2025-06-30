@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+1f08766c-a430-4db4-af3c-07a248d1fd73,2025-06-30T11:49:56+00:00,2025-06-30T11:49:56+00:00,STUD_AUCTION,ACTIVE,b67625e8-0a9f-49ba-9d25-d72b60fedb54,Surge Strike,MALE,00BCD4,1,SZABO,3.5,3,0.0,,0,c52fb25c-c46b-4b98-aa27-0dc72f59f109
 8c08adc8-7dca-4422-a01d-07690c8df3d2,2025-06-30T11:30:30+00:00,2025-06-30T11:30:30+00:00,STUD_AUCTION,ACTIVE,e956d177-d89a-4dee-b59e-235eb2a87430,Secure Sundress,MALE,673AB7,2,BUTERIN,3.0,2,0.0,,0,de6e54ec-5567-44d4-ac9c-87cd40b70d53
 030035c5-e81c-4d77-93d5-1b90bf5a5b1e,2025-06-30T11:27:38+00:00,2025-06-30T11:27:38+00:00,STUD_AUCTION,ACTIVE,1376bdfc-0df7-4fee-99e4-b59807fe517d,Tank,MALE,E91E63,4,NAKAMOTO,4.0,9,0.0,,0,0368a6e0-a23c-4527-bd1c-38c79d51fcb4
 a29764aa-3315-47de-a23a-aa621666d60b,2025-06-30T11:25:26+00:00,2025-06-30T11:25:26+00:00,STUD_AUCTION,ACTIVE,faaad877-7e34-4ca7-a05c-6c76303dc640,Purple Prince,MALE,673AB7,4,FINNEY,3.5,0,0.0,,0,c18e199d-613d-4526-8eb3-0887d8d21c7e
