@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+9b3aafb3-3fd2-489a-8ee5-583b223eac9b,2025-07-01T03:28:06+00:00,2025-07-01T03:28:06+00:00,STUD_AUCTION,ACTIVE,cb675feb-dd7d-4455-9d0c-36bb3e00e7d0,Blue Jay Way,MALE,00BCD4,0,SZABO,3.0,4,200.0,Dear Prudence,1,16a420e9-65d1-418e-85b6-fbe5f05c3058
 ea274632-79c1-4643-b8d2-525428ef7ec5,2025-07-01T03:16:35+00:00,2025-07-01T03:16:35+00:00,STUD_AUCTION,ACTIVE,c9f644bf-b35d-423f-88c4-17112e00bb19,Smiling Stiletto,MALE,FBC02D,1,BUTERIN,2.5,2,0.0,,0,d6551c2d-525b-4d71-a90b-202753dfe4c5
 52472154-c7f1-42b8-86bc-8b312cbe956d,2025-07-01T03:16:13+00:00,2025-07-01T03:16:13+00:00,STUD_AUCTION,ACTIVE,9442a9bb-1367-468f-831f-3d5336e38de2,Content Calendar,MALE,FFF176,4,BUTERIN,3.5,0,0.0,,0,d6551c2d-525b-4d71-a90b-202753dfe4c5
 8b778524-17f0-4d7e-bf26-2698e38aa7c0,2025-07-01T03:15:48+00:00,2025-07-01T03:15:48+00:00,STUD_AUCTION,ACTIVE,15cacedc-edbd-479a-bbc7-c2503ce19581,Amicable Pointillism,MALE,CDDC39,2,BUTERIN,3.0,0,0.0,,0,d6551c2d-525b-4d71-a90b-202753dfe4c5
