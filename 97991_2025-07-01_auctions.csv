@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+9827e11d-b194-4b71-adbe-569753aa22b1,2025-07-01T21:13:29+00:00,2025-07-01T21:13:29+00:00,STUD_AUCTION,ACTIVE,2e9bd38b-73da-4d90-aaf9-c25b43051335,#PlayPlanetX,MALE,8E24AA,2,FINNEY,3.0,0,0.0,,0,4858e345-1d41-4cef-9726-1fdce4000507
 f1abdee5-f0b7-46f0-8d03-fb8263899e77,2025-07-01T21:02:05+00:00,2025-07-01T21:02:05+00:00,STUD_AUCTION,ACTIVE,f011c64e-b828-4636-9961-e03f300286f0,Likeable Nix,MALE,7C4DFF,0,FINNEY,3.0,0,0.0,,0,078ed0ad-b2f8-4910-9617-987483fc1c8c
 183d9ad0-5323-4933-bb10-693c973cd6e4,2025-07-01T20:56:31+00:00,2025-07-01T20:56:31+00:00,STUD_AUCTION,ACTIVE,edfabe30-0902-431e-b4b1-0be8113b8c51,Wizard of Oz,MALE,AFB42B,3,BUTERIN,3.0,1,0.0,,0,fa6f4612-f668-46b2-8ead-41d06f702dde
 6279e35d-fe72-44c1-b269-d56ef3aadaf5,2025-07-01T20:56:23+00:00,2025-07-01T20:56:23+00:00,STUD_AUCTION,ACTIVE,bf8a0787-3b77-4c27-bcf3-932afa187c1a,Open and Shut,MALE,CE93D8,0,FINNEY,3.0,1,0.0,,0,fa6f4612-f668-46b2-8ead-41d06f702dde
