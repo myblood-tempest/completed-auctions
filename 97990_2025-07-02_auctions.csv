@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+a0a6da3c-51c4-47bf-8180-64b1450fee08,2025-07-02T03:01:03+00:00,2025-07-02T03:01:03+00:00,STUD_AUCTION,ACTIVE,549b41dc-c7d4-4ada-a0df-f3c35bc81c82,Larenzo Lion,MALE,29B6F6,2,SZABO,4.0,0,0.0,,0,5497758c-257b-4469-bb51-452d483388da
 7f3cb0b2-c229-4d63-94d2-ff94a0b99799,2025-07-02T02:49:02+00:00,2025-07-02T02:49:02+00:00,STUD_AUCTION,ACTIVE,36c4f3e0-4d48-4b7b-95c6-f2c414f2ce4f,Hotshot,MALE,AFB42B,0,BUTERIN,3.5,0,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 819f3e22-4803-4095-b415-e5b331093bf2,2025-07-02T02:34:05+00:00,2025-07-02T02:34:05+00:00,STUD_AUCTION,ACTIVE,d4da5e0f-d121-4eb8-b24b-3bf90c21e171,Hot Pursuit,MALE,039BE5,2,BUTERIN,3.5,1,0.0,,0,c772b4fb-b93b-45cb-b59d-925e284f20b8
 5cbe548f-b5af-4de7-be03-9d6f288dbf14,2025-07-02T02:23:22+00:00,2025-07-02T02:23:22+00:00,STUD_AUCTION,ACTIVE,147de048-b5ee-42fc-b8c4-2887545870c1,Playful Adagio,MALE,F9A825,3,BUTERIN,2.5,1,0.0,,0,66f4fb63-a4c7-4ebc-b7fa-d476859a260d
