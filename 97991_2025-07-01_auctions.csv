@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+dc005561-7092-4e7c-a274-9a6007480cc1,2025-07-01T09:25:02+00:00,2025-07-01T09:25:02+00:00,STUD_AUCTION,ACTIVE,faaad877-7e34-4ca7-a05c-6c76303dc640,Purple Prince,MALE,673AB7,4,FINNEY,3.5,0,0.0,,0,c18e199d-613d-4526-8eb3-0887d8d21c7e
 beecb78e-755a-4e4e-a215-d3f065123817,2025-07-01T09:18:41+00:00,2025-07-01T09:18:41+00:00,STUD_AUCTION,ACTIVE,be23b26b-b3b6-4af3-ba92-dbcd2a83e714,Enthusiastic Meteor,MALE,DCE775,1,FINNEY,3.0,0,0.0,,0,66096075-049d-44c0-a8eb-0c6b2e092492
 f0ac88de-f577-46f5-909d-22562a05f3cb,2025-07-01T09:11:59+00:00,2025-07-01T09:11:59+00:00,STUD_AUCTION,ACTIVE,1a9c8423-d034-4231-b326-8c028075e7ba,Adventurous Treble,MALE,039BE5,3,SZABO,3.0,1,0.0,,0,191a93d4-e3b2-4ff6-b236-823826ec4880
 e89c249a-3b7e-4482-abe6-6726b3387bf8,2025-07-01T09:11:50+00:00,2025-07-01T09:11:50+00:00,STUD_AUCTION,ACTIVE,6c9fb6f2-8f99-42e1-a00e-59fed5690650,Pleasant Classical,MALE,FFFDE7,3,SZABO,3.5,1,0.0,,0,191a93d4-e3b2-4ff6-b236-823826ec4880
