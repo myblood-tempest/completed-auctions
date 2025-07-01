@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+eb93977c-9fd7-4462-ba3b-4d702421f026,2025-07-02T01:44:25+00:00,2025-07-02T01:44:25+00:00,STUD_AUCTION,ACTIVE,df550a61-16ed-490a-9920-c9dda5e20a7e,Schnitzel Von Krumm,MALE,FFF9C4,2,FINNEY,4.0,0,0.0,,0,4ecb659d-7b36-4f62-ba99-79e37facd8dd
 5e0d6080-2f1b-4cfe-b8ac-2a1ed17ac25d,2025-07-02T01:12:47+00:00,2025-07-02T01:12:47+00:00,STUD_AUCTION,ACTIVE,791d442c-72e9-40b5-9cba-2e785a08f31b,Mister Milkshake,MALE,81D4FA,1,SZABO,3.5,1,0.0,,0,3fd5634b-03a0-46ac-b16e-4e7ef66af919
 e02d215e-e253-4435-ad30-bb4d7d37173d,2025-07-02T01:12:40+00:00,2025-07-02T01:12:40+00:00,STUD_AUCTION,ACTIVE,eedbe78c-37d0-4d9d-8217-abef2afbbaa6,Praise Kier,MALE,E6EE9C,1,SZABO,3.5,0,0.0,,0,3fd5634b-03a0-46ac-b16e-4e7ef66af919
 4e46b6f2-74de-4ee4-8470-ef8edfe9a163,2025-07-02T01:04:05+00:00,2025-07-02T01:04:05+00:00,STUD_AUCTION,ACTIVE,58f494bb-2042-4cee-95f9-6c725f73e83b,Icicle,MALE,81D4FA,3,SZABO,3.5,1,0.0,,0,80a4bf88-c314-49ce-86d2-ae45361768e8
