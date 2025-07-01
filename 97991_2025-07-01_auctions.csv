@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+9b1380a7-c6b2-49af-9147-c4d85a44571d,2025-07-01T13:41:28+00:00,2025-07-01T13:41:28+00:00,STUD_AUCTION,ACTIVE,19cf61d7-8b40-45f0-b395-95ad82a0c67f,Sofa King Steve,MALE,512DA8,0,FINNEY,3.5,2,0.0,,0,1b9fa9ad-4090-439e-8b7a-2d909017d87a
 bd852945-aa4d-499f-b191-b43eed521492,2025-07-01T13:35:51+00:00,2025-07-01T13:35:51+00:00,STUD_AUCTION,ACTIVE,4e87750b-b1e2-49d0-87e3-99fa33f2c960,Magnanimous Accessory,MALE,F50057,4,NAKAMOTO,3.5,1,0.0,,0,ce129fd0-1e30-415c-b392-2f82694b4bff
 e43e4597-0f65-425f-ac0d-4e1775f0e3cb,2025-07-01T13:09:53+00:00,2025-07-01T13:09:53+00:00,STUD_AUCTION,ACTIVE,ade36276-758a-449d-a620-31b076120cda,Pleasing Alchemist,MALE,2962FF,0,SZABO,3.0,3,0.0,,0,86e856b8-7d58-4cba-94fd-fa1c2cd15d5b
 1d5680bf-7749-4085-a73e-702819d0eacc,2025-07-01T13:03:55+00:00,2025-07-01T13:03:55+00:00,STUD_AUCTION,ACTIVE,ada6761a-f130-48b9-9d60-d808b18dbbe4,Roll Of Thunder,MALE,F48FB1,0,NAKAMOTO,3.5,0,0.0,,0,5dc43058-344f-47d8-ae2d-4c87df1e20bd
