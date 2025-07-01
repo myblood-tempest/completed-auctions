@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+0339d8f0-5804-4b4e-99b6-6fc924cccdd7,2025-07-01T09:56:10+00:00,2025-07-01T09:56:10+00:00,STUD_AUCTION,ACTIVE,25b0f42f-7bf2-46ca-b77d-394fd986dba4,Clyde Stratmore,MALE,03A9F4,2,SZABO,3.0,0,0.0,,0,1be99960-4ea1-4c63-a953-5a21f49a908c
 fb327284-73f9-4fc1-a9b4-359bc182eb28,2025-07-01T09:39:15+00:00,2025-07-01T09:39:15+00:00,STUD_AUCTION,ACTIVE,791d442c-72e9-40b5-9cba-2e785a08f31b,Mister Milkshake,MALE,81D4FA,1,SZABO,3.5,2,0.0,,0,3fd5634b-03a0-46ac-b16e-4e7ef66af919
 4c23f473-77bc-4c0c-bc1a-8b2188a334f8,2025-07-01T09:39:07+00:00,2025-07-01T09:39:07+00:00,STUD_AUCTION,ACTIVE,568649e8-2a4a-48cb-89b4-858aa8f986c4,Loneliest Number,MALE,673AB7,3,SZABO,3.0,0,0.0,,0,3fd5634b-03a0-46ac-b16e-4e7ef66af919
 8b756d95-2f7d-4d51-bb7d-e652a6785566,2025-07-01T09:38:50+00:00,2025-07-01T09:38:50+00:00,STUD_AUCTION,ACTIVE,2e76d65c-06b7-4d9d-b966-36cf0a00ac4a,One Of A Kind,MALE,EC407A,2,NAKAMOTO,3.0,0,0.0,,0,3fd5634b-03a0-46ac-b16e-4e7ef66af919
