@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+4555152e-6795-4b33-a443-aa10586b44f5,2025-07-02T05:25:56+00:00,2025-07-02T05:25:56+00:00,STUD_AUCTION,ACTIVE,9571de1c-c5b4-4f66-a4d7-d0d6b7ee0d39,Present,MALE,512DA8,1,SZABO,3.5,0,0.0,,0,6e49dab3-2bb2-4511-b24e-6432016d75d6
 ec5431fe-d91f-4b07-965f-3c543420d763,2025-07-02T05:14:54+00:00,2025-07-02T05:14:54+00:00,STUD_AUCTION,ACTIVE,1a9d762a-2a0f-47c2-ac3a-e22eaa37fea1,Soul Kepper,MALE,0288D1,0,SZABO,3.5,0,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 a9c50839-7848-4e20-adde-4fd5125f2151,2025-07-02T05:09:07+00:00,2025-07-02T05:09:07+00:00,STUD_AUCTION,ACTIVE,3a131ae3-089a-4162-b118-40dd02a2fe8c,Euphoric,MALE,4FC3F7,0,SZABO,3.0,2,0.0,,0,14448d4e-5eea-4ac3-afb6-85ae8c870611
 f24a0768-e26f-4439-affa-b606937b4223,2025-07-02T04:47:31+00:00,2025-07-02T04:47:31+00:00,STUD_AUCTION,ACTIVE,e07dd8be-75ae-481b-a6a2-3368cc5c2dc8,Fervent Dwarf,MALE,00BCD4,0,SZABO,3.0,1,0.0,,0,b1de2719-cc80-457a-8ba3-369ddb73aca8
