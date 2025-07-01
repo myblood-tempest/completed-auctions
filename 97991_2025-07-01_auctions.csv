@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+e43e4597-0f65-425f-ac0d-4e1775f0e3cb,2025-07-01T13:09:53+00:00,2025-07-01T13:09:53+00:00,STUD_AUCTION,ACTIVE,ade36276-758a-449d-a620-31b076120cda,Pleasing Alchemist,MALE,2962FF,0,SZABO,3.0,3,0.0,,0,86e856b8-7d58-4cba-94fd-fa1c2cd15d5b
 1d5680bf-7749-4085-a73e-702819d0eacc,2025-07-01T13:03:55+00:00,2025-07-01T13:03:55+00:00,STUD_AUCTION,ACTIVE,ada6761a-f130-48b9-9d60-d808b18dbbe4,Roll Of Thunder,MALE,F48FB1,0,NAKAMOTO,3.5,0,0.0,,0,5dc43058-344f-47d8-ae2d-4c87df1e20bd
 574a6eb5-a9ee-4839-b43a-d9b1e614b309,2025-07-01T12:57:42+00:00,2025-07-01T12:57:42+00:00,STUD_AUCTION,ACTIVE,f91e2162-6bbe-458a-9722-905bc769dda4,Pillar of life,MALE,9C27B0,1,FINNEY,3.0,1,0.0,,0,4c385f69-5310-47d3-bdca-b12995354fa0
 13174110-346e-40f8-8805-04cf075f2501,2025-07-01T12:57:29+00:00,2025-07-01T12:57:29+00:00,STUD_AUCTION,ACTIVE,da656746-1375-4257-8f4e-8060748eb3b5,True Genius,MALE,D4E157,1,BUTERIN,3.5,0,0.0,,0,5b902afc-521d-47bc-bbc5-ceae47c936bc
