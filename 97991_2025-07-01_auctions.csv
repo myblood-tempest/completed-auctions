@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+baaa6f56-7120-4e3a-8501-1505c54d623f,2025-07-01T23:24:12+00:00,2025-07-01T23:24:12+00:00,STUD_AUCTION,ACTIVE,a3a69b0e-54a8-4b71-910f-2e8d2ae6b6ff,Alexander McQueen,MALE,7E57C2,4,BUTERIN,3.5,0,0.0,,0,89659879-a5e9-4f02-8b60-40574aceddde
 6bba0708-453f-4c9f-9406-54bdb52a8e67,2025-07-01T23:17:36+00:00,2025-07-01T23:17:36+00:00,STUD_AUCTION,ACTIVE,0c5bc55c-2a69-4e43-b12e-bfb87dd96bc3,Blazing Bounty,MALE,9C27B0,1,FINNEY,3.5,0,0.0,,0,0c610479-f199-4ec5-9649-ad340c356e72
 87122db6-edf4-4e56-b5d1-39f5d835e45f,2025-07-01T23:15:40+00:00,2025-07-01T23:15:40+00:00,STUD_AUCTION,ACTIVE,ce8e2731-be8f-45f4-8027-ab3bdc307983,Mr Bigglesworth,MALE,BA68C8,0,FINNEY,3.0,3,0.0,,0,df65b0c0-7950-46af-b6c1-f40e52709c6c
 ee45ef99-fbb8-4119-80ec-dc515ecc559c,2025-07-01T23:10:52+00:00,2025-07-01T23:10:52+00:00,STUD_AUCTION,ACTIVE,dbe629cc-8db7-46fc-b8ac-064af504593c,Lucid Methodology,MALE,9C27B0,2,FINNEY,3.0,0,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
