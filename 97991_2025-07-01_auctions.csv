@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+12549781-09ce-44a8-a877-684ea82a6c0a,2025-07-01T14:11:35+00:00,2025-07-01T14:11:35+00:00,STUD_AUCTION,ACTIVE,a08d479f-482e-47d0-8154-6fac28fda7ef,Excited Prince,MALE,8E24AA,0,FINNEY,3.5,0,0.0,,0,4711202d-21cd-43ef-9bfc-c2c78a0e52ff
 cb26ef1a-0e12-471b-82fa-50aa0c3d3567,2025-07-01T13:49:18+00:00,2025-07-01T13:49:18+00:00,STUD_AUCTION,ACTIVE,aa034a08-505a-411e-a66a-acc15e91b20f,Worst Airdrop Ever,MALE,4DD0E1,0,SZABO,2.5,1,0.0,,0,c3f73763-c192-4224-86c3-b281fd2f32ee
 c62881a0-ef3d-4dda-8da5-316aa47d4074,2025-07-01T13:49:13+00:00,2025-07-01T13:49:13+00:00,STUD_AUCTION,ACTIVE,eca86f4c-bb9a-40cf-b6ca-0301380d819c,Reforge Me ASAP â,MALE,AB47BC,3,BUTERIN,3.0,1,0.0,,0,c3f73763-c192-4224-86c3-b281fd2f32ee
 9b1380a7-c6b2-49af-9147-c4d85a44571d,2025-07-01T13:41:28+00:00,2025-07-01T13:41:28+00:00,STUD_AUCTION,ACTIVE,19cf61d7-8b40-45f0-b395-95ad82a0c67f,Sofa King Steve,MALE,512DA8,0,FINNEY,3.5,2,0.0,,0,1b9fa9ad-4090-439e-8b7a-2d909017d87a
