@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+a0a58607-3ec6-4e73-8c0c-1fa990b7649e,2025-07-01T19:57:44+00:00,2025-07-01T19:57:44+00:00,STUD_AUCTION,ACTIVE,5b237547-c3fa-42e4-8296-644a49d11b26,Magic Internet Money,MALE,EF9A9A,1,NAKAMOTO,3.5,2,0.0,,0,4c385f69-5310-47d3-bdca-b12995354fa0
 5ee42cc1-49b7-4d12-a0a1-dce6a134b934,2025-07-01T19:54:02+00:00,2025-07-01T19:54:02+00:00,STUD_AUCTION,ACTIVE,a5db5307-36b3-462b-b6ba-eb13bc06a169,Y 2 K 2 K,MALE,FFF176,3,BUTERIN,4.0,0,0.0,,0,0cb14e18-fbb3-4ab5-9531-0dd409950b27
 0445820e-8fa7-4f27-8a7c-3f731d5d5d3f,2025-07-01T19:53:39+00:00,2025-07-01T19:53:39+00:00,STUD_AUCTION,ACTIVE,2d01fdde-b6e7-465a-81dc-31abda7f3bdf,Stache,MALE,29B6F6,4,BUTERIN,3.0,0,0.0,,0,0cb14e18-fbb3-4ab5-9531-0dd409950b27
 15661f61-f840-4db8-bebf-32544d49d2dc,2025-07-01T19:44:41+00:00,2025-07-01T19:44:41+00:00,STUD_AUCTION,ACTIVE,8622775d-79c3-4833-be37-57a29e373bcc,Early Exit,MALE,D4E157,3,BUTERIN,2.5,1,0.0,,0,87d925ab-fbc0-4d2c-ab8a-a89444585ac6
