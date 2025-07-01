@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+ee45ef99-fbb8-4119-80ec-dc515ecc559c,2025-07-01T23:10:52+00:00,2025-07-01T23:10:52+00:00,STUD_AUCTION,ACTIVE,dbe629cc-8db7-46fc-b8ac-064af504593c,Lucid Methodology,MALE,9C27B0,2,FINNEY,3.0,0,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 5c6590a2-059b-46ba-825c-a788824baa1b,2025-07-01T22:57:04+00:00,2025-07-01T22:57:04+00:00,STUD_AUCTION,ACTIVE,97aff631-35d3-4d31-bfa8-b9dbe1008ab8,Blissful Minerva,MALE,26C6DA,2,NAKAMOTO,3.0,0,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 8d9c6b90-9b6b-4c43-898c-c356c4ba5f1b,2025-07-01T22:55:13+00:00,2025-07-01T22:55:13+00:00,STUD_AUCTION,ACTIVE,4f93e352-71ad-4a7b-8a8f-580eec61467a,Prosperous Typography,MALE,FFF176,3,FINNEY,2.5,1,0.0,,0,6dc0657a-e2dc-4254-9520-af83167f87f2
 a30e01e3-6597-4ce1-a1a4-cc57bf69e650,2025-07-01T22:54:21+00:00,2025-07-01T22:54:21+00:00,STUD_AUCTION,ACTIVE,c0823696-d724-4a70-bbb5-2009bc198065,The Mountain,MALE,7C4DFF,3,BUTERIN,3.0,0,0.0,,0,db2f7f25-7422-4e2b-93d0-d679d6a07a68
