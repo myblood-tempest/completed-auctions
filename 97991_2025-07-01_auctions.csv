@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+83dc8a03-cd86-48cf-b3b6-c6b13b244c2c,2025-07-01T12:50:23+00:00,2025-07-01T12:50:23+00:00,STUD_AUCTION,ACTIVE,f5fe2046-1ffd-42c6-8bb4-6118d6e58349,Magpie,MALE,FFFDE7,0,BUTERIN,3.0,3,0.0,,0,8bbfdb1e-8a4f-455f-9062-ce06a3f37a3c
 542b8441-c786-4896-b0bb-127dde0ba729,2025-07-01T12:35:56+00:00,2025-07-01T12:35:56+00:00,STUD_AUCTION,ACTIVE,06870a33-97bd-4754-8e52-45f55ad65d69,Respectable Shaft,MALE,F9A825,2,BUTERIN,2.5,0,0.0,,0,66f4fb63-a4c7-4ebc-b7fa-d476859a260d
 478bf767-bd07-4758-8755-54a45a08dce3,2025-07-01T12:30:28+00:00,2025-07-01T12:30:28+00:00,STUD_AUCTION,ACTIVE,184dfbf1-9f09-4fdd-b76e-fe424dfe95ef,Optimistic Meet,MALE,AFB42B,1,BUTERIN,3.0,3,0.0,,0,2537b126-4bb8-4066-b5bf-1379622d89b4
 11332259-5a71-45db-8a5e-6bed07cee69e,2025-07-01T12:14:27+00:00,2025-07-01T12:14:27+00:00,STUD_AUCTION,ACTIVE,95b02d14-3641-4b5a-a57e-73fa2bdc5169,Sleepytime,MALE,D81B60,2,NAKAMOTO,3.0,2,0.0,,0,47396df5-6862-4ec0-89a1-016b2d5d26d9
