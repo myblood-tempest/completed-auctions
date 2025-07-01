@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+a4de9a01-fbc0-4c23-be58-91a789834c04,2025-07-01T08:22:07+00:00,2025-07-01T08:22:07+00:00,STUD_AUCTION,ACTIVE,64b9cdef-8fac-41e9-ac96-6e6c2e16dcb4,Affable Nocturne,MALE,9575CD,0,FINNEY,3.0,4,0.0,,0,f44e5972-44fa-48dc-89a5-982199bc95a7
 e599210f-a0aa-4f4e-810f-938013fa3134,2025-07-01T08:02:23+00:00,2025-07-01T08:02:23+00:00,STUD_AUCTION,ACTIVE,86b9d3ea-aac7-4468-87bc-52c26bff225b,Moving On Up,MALE,DCE775,1,BUTERIN,3.5,3,100.0,Slide,1,2ed43270-3389-417b-b7a4-13b3ee97eba3
 c1f49f6f-0dbf-45e7-8047-7c2c7a9c8c8f,2025-07-01T07:57:11+00:00,2025-07-01T07:57:11+00:00,STUD_AUCTION,ACTIVE,9f6b3f31-ad20-4d02-a247-c5974134586b,Beer O Clock,MALE,BA68C8,3,BUTERIN,4.0,3,0.0,,0,36a908d1-b8ae-4d42-aa1a-65c791fb4495
 6017ea1d-9fe2-4811-9bd6-f5dbc112491f,2025-07-01T07:50:28+00:00,2025-07-01T07:50:28+00:00,STUD_AUCTION,ACTIVE,0fbbfbd6-eb72-44a9-af9b-950ef9141fd9,Djibouti Donkulous,MALE,8E24AA,2,BUTERIN,3.5,2,0.0,,0,fe806b57-86bf-43c3-94a2-4491483f8651
