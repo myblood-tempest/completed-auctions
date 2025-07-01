@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+41e8aa36-aeaf-431c-a999-fdd7e03f8549,2025-07-01T10:42:39+00:00,2025-07-01T10:42:39+00:00,STUD_AUCTION,ACTIVE,521dfd43-7e65-4b95-bc00-46aadee39dcf,Justice League,MALE,03A9F4,0,SZABO,3.0,0,100.0,Intrepid Example,1,078ed0ad-b2f8-4910-9617-987483fc1c8c
 953c4491-c553-44b6-83ec-0b897a4b6024,2025-07-01T10:38:02+00:00,2025-07-01T10:38:02+00:00,STUD_AUCTION,ACTIVE,3a131ae3-089a-4162-b118-40dd02a2fe8c,Euphoric,MALE,4FC3F7,0,SZABO,3.0,3,0.0,,0,14448d4e-5eea-4ac3-afb6-85ae8c870611
 23a3648a-3064-48be-b4f6-e59968d07160,2025-07-01T10:32:26+00:00,2025-07-01T10:32:26+00:00,STUD_AUCTION,ACTIVE,caf41ef1-69e3-43ec-90eb-41bbdf6b1772,Mostly a Dragon ðð²,MALE,03A9F4,1,FINNEY,2.5,1,0.0,,0,f067821d-77cb-4d52-9ef8-9ba5fea7257a
 f79155bd-0931-48bb-ac88-1620cbd72364,2025-07-01T10:29:44+00:00,2025-07-01T10:29:44+00:00,STUD_AUCTION,ACTIVE,66f52552-2b94-427c-9abe-b72df9ade538,Octo Dragonðð²,MALE,81D4FA,3,SZABO,3.0,0,0.0,,0,f067821d-77cb-4d52-9ef8-9ba5fea7257a
