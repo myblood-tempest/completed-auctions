@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+a2de442c-b922-4849-8d8d-f7a6c5d0abc4,2025-07-01T23:33:58+00:00,2025-07-01T23:33:58+00:00,STUD_AUCTION,ACTIVE,02312d71-afdc-45b5-abfb-1d643f9ef92a,Passionate Medallion,MALE,E57373,3,BUTERIN,2.5,0,0.0,,0,de7958af-5dbb-478c-85b7-4f727e62f8a2
 08d877b2-d5de-4dd0-bb8b-4eb54ccb68bb,2025-07-01T23:27:35+00:00,2025-07-01T23:27:35+00:00,STUD_AUCTION,ACTIVE,d39f3e21-3774-4e0f-9446-20023058e30f,Y2K2K5,MALE,00BCD4,0,SZABO,4.0,0,0.0,,0,d458f8ff-9660-4b81-9b8d-42c525189ab2
 14e48991-a208-4460-a22e-f62427a4e943,2025-07-01T23:26:54+00:00,2025-07-01T23:26:54+00:00,STUD_AUCTION,ACTIVE,8e8ed1f7-318e-4686-83f3-a288fa367e2f,5â­ Breeder,MALE,FFF176,1,BUTERIN,2.5,3,0.0,,0,d458f8ff-9660-4b81-9b8d-42c525189ab2
 baaa6f56-7120-4e3a-8501-1505c54d623f,2025-07-01T23:24:12+00:00,2025-07-01T23:24:12+00:00,STUD_AUCTION,ACTIVE,a3a69b0e-54a8-4b71-910f-2e8d2ae6b6ff,Alexander McQueen,MALE,7E57C2,4,BUTERIN,3.5,0,0.0,,0,89659879-a5e9-4f02-8b60-40574aceddde
