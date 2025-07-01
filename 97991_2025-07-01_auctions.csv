@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+7c0d1ffe-419d-4fa2-8b6f-135f4a35fd47,2025-07-01T23:59:51+00:00,2025-07-01T23:59:51+00:00,STUD_AUCTION,ACTIVE,4944b3a7-92c8-4575-aa30-2b81b6f54bf8,Airdropped Stud,MALE,673AB7,0,FINNEY,3.0,2,0.0,,0,d0c0c55a-2e40-4871-beee-66fb2ab41d42
 d8fdc554-f9cb-401c-8d28-fdc337f00237,2025-07-01T23:56:35+00:00,2025-07-01T23:56:35+00:00,STUD_AUCTION,ACTIVE,38779b20-cb09-4b64-befd-8d6241a72e3b,Truthful Diplomacy,MALE,F44336,2,FINNEY,4.0,0,15000.0,Thoughtful Sea,2,62594325-4a6c-41e5-bcf7-071fd15aba7e
 84d285d1-b7d7-4de1-a929-51e4f6d3e8ba,2025-07-01T23:54:59+00:00,2025-07-01T23:54:59+00:00,STUD_AUCTION,ACTIVE,f3eb9736-1de6-457f-b2b2-07aaa689e335,Primavera,MALE,9C27B0,4,BUTERIN,3.5,0,0.0,,0,6df05982-8638-495b-9b29-8777e597a45c
 956938e0-b903-43c7-8b1f-d38a46fca919,2025-07-01T23:46:47+00:00,2025-07-01T23:46:47+00:00,STUD_AUCTION,ACTIVE,19cf61d7-8b40-45f0-b395-95ad82a0c67f,Sofa King Steve,MALE,512DA8,0,FINNEY,3.5,1,0.0,,0,1b9fa9ad-4090-439e-8b7a-2d909017d87a

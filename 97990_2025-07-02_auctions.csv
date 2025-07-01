@@ -1,0 +1,3 @@
+listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+6a628c2b-d3cc-4ac5-8cf4-6c511cd616ca,2025-07-02T00:02:31+00:00,2025-07-02T00:02:31+00:00,STUD_AUCTION,ACTIVE,de4d5f85-726f-4d9d-8493-c79216509a20,Lovely Blend,MALE,512DA8,3,FINNEY,3.0,0,100.0,First Predator,1,d0c0c55a-2e40-4871-beee-66fb2ab41d42
+e8719a58-9476-463f-ac3e-4623413303a7,2025-07-02T00:01:24+00:00,2025-07-02T00:01:24+00:00,STUD_AUCTION,ACTIVE,82a8c726-d899-4a6f-90dd-e71f4596fb74,Blueblood Jeopardy,MALE,D81B60,3,SZABO,3.5,0,0.0,,0,d0c0c55a-2e40-4871-beee-66fb2ab41d42
