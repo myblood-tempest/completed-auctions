@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+6a6bba7e-c134-447f-bd17-92f02bfd9c38,2025-07-02T13:20:28+00:00,2025-07-02T13:20:28+00:00,STUD_AUCTION,ACTIVE,c7d6a8eb-1bff-4336-abcc-308ee458ea64,Insane Hymn,MALE,4FC3F7,1,FINNEY,3.0,0,0.0,,0,de9bcdaf-b0cc-4c84-8d90-2f305128b3f0
 fc34e263-d61f-40ee-a04d-9ab8ca8aa494,2025-07-02T13:11:30+00:00,2025-07-02T13:11:30+00:00,STUD_AUCTION,ACTIVE,dccaabff-a6d0-4d3e-a964-31dea7fa5c3a,Max Engagement,MALE,29B6F6,3,FINNEY,3.5,1,0.0,,0,a7a98add-cc67-43ef-8a9c-981a5b516e6e
 d7db3c23-63c4-4a26-be6e-2cb311026283,2025-07-02T13:11:29+00:00,2025-07-02T13:11:29+00:00,STUD_AUCTION,ACTIVE,ef037c44-89ce-47fd-ba74-3edcc1830ffd,Unaware Week,MALE,29B6F6,0,SZABO,3.0,3,0.0,,0,03d44a5e-bd0e-4a30-aa75-0821503edcb4
 63c9d451-9a8b-427b-84ea-8208d123bd1b,2025-07-02T13:08:41+00:00,2025-07-02T13:08:41+00:00,STUD_AUCTION,ACTIVE,c6c5deb9-5486-498d-abc6-da46ee50d297,Chronos,MALE,FF1744,3,NAKAMOTO,4.0,0,56640.0,Furies,1,825c4dee-100b-4567-b27b-f76769851653
