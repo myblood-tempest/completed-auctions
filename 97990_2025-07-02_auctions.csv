@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+af12bb34-d32a-4796-8027-21ee8473c21a,2025-07-02T23:05:21+00:00,2025-07-02T23:05:21+00:00,STUD_AUCTION,ACTIVE,3a6b8311-e1fe-4b35-a4ca-ba25e299b693,No Fear,MALE,D4E157,4,BUTERIN,3.5,0,100.0,Elated Beaded,1,89659879-a5e9-4f02-8b60-40574aceddde
 849b8d52-9a08-4de1-8772-3a17eb5f4d21,2025-07-02T22:57:49+00:00,2025-07-02T22:57:49+00:00,STUD_AUCTION,ACTIVE,6dc9ac47-ba0d-44aa-9b0a-c5ee20d35807,rektguy,MALE,AB47BC,3,BUTERIN,3.5,0,100.0,Inspector Boom Goose,1,ff6bf47e-6e81-4373-9be2-81bda04615a5
 7ecd5586-11a4-4c87-90bd-d14b7dcbf892,2025-07-02T22:56:36+00:00,2025-07-02T22:56:36+00:00,STUD_AUCTION,ACTIVE,e8862e1c-cef3-46bb-8bdd-3406b09c782f,One More Saber,MALE,00ACC1,0,SZABO,3.0,3,0.0,,0,ff6bf47e-6e81-4373-9be2-81bda04615a5
 4630b6a9-80d1-4178-876b-49115b1514c4,2025-07-02T22:35:32+00:00,2025-07-02T22:35:32+00:00,STUD_AUCTION,ACTIVE,ec906996-e7c1-4b9b-9c15-1c9eec00f54b,Obabo,MALE,9575CD,2,FINNEY,3.0,2,0.0,,0,a81a956d-7a4a-4895-82f7-c13fde5e441f
