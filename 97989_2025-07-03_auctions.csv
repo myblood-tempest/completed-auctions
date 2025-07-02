@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+b87b61a7-fc1d-44bc-9833-b6a7ffb440e4,2025-07-03T05:25:57+00:00,2025-07-03T05:25:57+00:00,STUD_AUCTION,ACTIVE,929b560d-611f-4291-ae63-c237a2316768,Favorite Fat,MALE,29B6F6,0,SZABO,3.5,0,100.0,Anecdote,1,a81a956d-7a4a-4895-82f7-c13fde5e441f
 956f440a-7881-422e-9aed-a0eb69dae759,2025-07-03T05:22:50+00:00,2025-07-03T05:22:50+00:00,STUD_AUCTION,ACTIVE,5afe5aed-8c8e-489e-a2c1-3744ab5058e1,Wall E,MALE,7B1FA2,2,FINNEY,3.5,6,0.0,,0,4fed6f58-ff3d-49a6-ae32-5afde86c9a90
 d38652dc-c240-4352-ae1a-d869377f4a36,2025-07-03T05:22:32+00:00,2025-07-03T05:22:32+00:00,STUD_AUCTION,ACTIVE,66c38205-137c-4032-a37e-40fef565bdaa,Aptos,MALE,7B1FA2,3,FINNEY,3.5,1,0.0,,0,4fed6f58-ff3d-49a6-ae32-5afde86c9a90
 9950fe89-5378-45ce-a07f-9cf4f800f754,2025-07-03T05:16:37+00:00,2025-07-03T05:16:37+00:00,STUD_AUCTION,ACTIVE,e6f220bd-69fb-43c5-904f-9f61dd55a778,Dream Rebel,MALE,80DEEA,4,FINNEY,3.0,0,1000.0,Attractive Nuisance,1,670f0454-e591-4d03-bc75-7f1ac4120140
