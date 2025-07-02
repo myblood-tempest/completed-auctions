@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+f177a5b2-1f64-413f-bbcf-438679e57a99,2025-07-02T21:09:09+00:00,2025-07-02T21:09:09+00:00,STUD_AUCTION,ACTIVE,5e79e5b4-9078-41b5-ac29-9304bb2220b0,God Roll,MALE,AB47BC,4,SZABO,4.0,7,0.0,,0,b501b95c-c200-47ae-91f6-530321e9af31
 38d69885-63ed-477f-85f3-e65674b30b13,2025-07-02T20:58:42+00:00,2025-07-02T20:58:42+00:00,STUD_AUCTION,ACTIVE,d28da880-496d-4650-89ed-211eae55abae,Generous Knowledge,MALE,5E35B1,4,SZABO,3.5,1,0.0,,0,4c385f69-5310-47d3-bdca-b12995354fa0
 615e9cf2-7eae-48ca-8265-e9e57873bd99,2025-07-02T20:43:31+00:00,2025-07-02T20:43:31+00:00,STUD_AUCTION,ACTIVE,60c6f483-4d5d-4e10-950d-2a5c8bdd4bb6,Aonic Vapor,MALE,E6EE9C,2,BUTERIN,3.5,0,0.0,,0,87d925ab-fbc0-4d2c-ab8a-a89444585ac6
 93a1aee5-11c6-4fe0-a239-ebd609ac7e7b,2025-07-02T20:28:45+00:00,2025-07-02T20:28:45+00:00,STUD_AUCTION,ACTIVE,9d807d21-e1fa-48ae-bc5b-ee383d8d4179,Angelic Knee,MALE,00ACC1,0,SZABO,3.0,4,0.0,,0,31995967-8ebf-4296-ab50-2b59d301e56a
