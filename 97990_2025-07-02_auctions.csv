@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+189e01ca-adae-4732-a06a-0ca024c3abd4,2025-07-02T22:15:37+00:00,2025-07-02T22:15:37+00:00,STUD_AUCTION,ACTIVE,e07062db-b650-48d2-9792-c18913701cbf,Humdinga,MALE,D4E157,3,SZABO,4.0,0,0.0,,0,4ecb659d-7b36-4f62-ba99-79e37facd8dd
 43652598-89d5-4387-a32a-93e5154ddf7d,2025-07-02T22:12:56+00:00,2025-07-02T22:12:56+00:00,STUD_AUCTION,ACTIVE,8f6720c5-4044-41d5-b69b-a5927da526ef,Voltaire,MALE,C2185B,3,NAKAMOTO,3.5,4,0.0,,0,0cb14e18-fbb3-4ab5-9531-0dd409950b27
 0d15d908-ab91-4aa2-9082-40c3e6ffe243,2025-07-02T22:05:29+00:00,2025-07-02T22:05:29+00:00,STUD_AUCTION,ACTIVE,df550a61-16ed-490a-9920-c9dda5e20a7e,Schnitzel Von Krumm,MALE,FFF9C4,2,FINNEY,4.0,0,0.0,,0,4ecb659d-7b36-4f62-ba99-79e37facd8dd
 2babcaf4-55b7-4d1a-a6c3-0a1b5ac335ef,2025-07-02T22:01:20+00:00,2025-07-02T22:01:20+00:00,STUD_AUCTION,ACTIVE,7d132f1e-183f-44c4-a972-b89e117c2eff,Rattled,MALE,8E24AA,4,FINNEY,3.5,2,0.0,,0,582b401b-abb1-4dce-88f6-7e8cbde5fbd0
