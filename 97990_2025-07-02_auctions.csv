@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+26b0027f-7ea5-4f19-b1b2-46af57c8ebea,2025-07-02T20:04:23+00:00,2025-07-02T20:04:23+00:00,STUD_AUCTION,ACTIVE,e9e5819d-b765-4c5b-9a77-19971bef098f,Muddy Sensitive,MALE,AB47BC,0,FINNEY,3.0,3,0.0,,0,4b8c54f2-1ec5-4225-9fcb-7acd21bc592c
 bb8b5c3e-5334-423d-b5e4-4b264e5ae4d6,2025-07-02T19:54:38+00:00,2025-07-02T19:54:38+00:00,STUD_AUCTION,ACTIVE,8498ffbb-d731-492e-9134-7a715a7f3f02,Serene Cassowary,MALE,AB47BC,0,FINNEY,3.0,3,0.0,,0,df8918f6-d1a7-4fa0-b1f1-c82571db1b93
 08a1d653-1e68-45bd-afb2-8a6b06135e63,2025-07-02T19:54:30+00:00,2025-07-02T19:54:30+00:00,STUD_AUCTION,ACTIVE,6cdf8ebc-f8b5-481a-8428-15f01b11d779,Intentional Knee,MALE,E6EE9C,0,BUTERIN,3.0,0,0.0,,0,df8918f6-d1a7-4fa0-b1f1-c82571db1b93
 6e3dbfe5-f800-4018-887c-88afbb018fc4,2025-07-02T19:53:54+00:00,2025-07-02T19:53:54+00:00,STUD_AUCTION,ACTIVE,542a461b-a0ae-4f9b-907e-daa38efcb9a7,Idealistic Safety,MALE,26C6DA,0,SZABO,3.0,0,0.0,,0,df8918f6-d1a7-4fa0-b1f1-c82571db1b93
