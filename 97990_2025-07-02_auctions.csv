@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+615e9cf2-7eae-48ca-8265-e9e57873bd99,2025-07-02T20:43:31+00:00,2025-07-02T20:43:31+00:00,STUD_AUCTION,ACTIVE,60c6f483-4d5d-4e10-950d-2a5c8bdd4bb6,Aonic Vapor,MALE,E6EE9C,2,BUTERIN,3.5,0,0.0,,0,87d925ab-fbc0-4d2c-ab8a-a89444585ac6
 93a1aee5-11c6-4fe0-a239-ebd609ac7e7b,2025-07-02T20:28:45+00:00,2025-07-02T20:28:45+00:00,STUD_AUCTION,ACTIVE,9d807d21-e1fa-48ae-bc5b-ee383d8d4179,Angelic Knee,MALE,00ACC1,0,SZABO,3.0,4,0.0,,0,31995967-8ebf-4296-ab50-2b59d301e56a
 c27ba9e2-bc61-4b29-aecb-47062a4e9359,2025-07-02T20:28:12+00:00,2025-07-02T20:28:12+00:00,STUD_AUCTION,ACTIVE,a4772a00-e0fa-407c-9fcc-845a23720730,Virabhadra,MALE,E040FB,1,FINNEY,3.0,2,0.0,,0,439401ad-d6f3-43ed-a22e-50c39b7ba7eb
 4227996a-e173-46f4-8bc9-c988d25a569f,2025-07-02T20:28:09+00:00,2025-07-02T20:28:09+00:00,STUD_AUCTION,ACTIVE,999e6399-76b0-4da0-ab9d-adaab6fdd63f,Educated,MALE,8E24AA,0,FINNEY,3.0,2,0.0,,0,31995967-8ebf-4296-ab50-2b59d301e56a
