@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+ee53e225-47a9-484f-a59f-3e8e52a87549,2025-07-02T10:45:21+00:00,2025-07-02T10:45:21+00:00,STUD_AUCTION,ACTIVE,d120d135-f00f-4b05-a7b3-165b20338a33,Imaginative Masterpiece,MALE,4DD0E1,0,SZABO,3.0,3,0.0,,0,4b80b124-e525-44f9-8c6d-af9ff31f543c
 4b85d318-416f-407d-a9a6-8ba0118fa16b,2025-07-02T10:43:36+00:00,2025-07-02T10:43:36+00:00,STUD_AUCTION,ACTIVE,e78563a0-ba47-4ab5-835d-313f5d0d3b9c,Respectful Meadow,MALE,00BCD4,0,SZABO,3.0,4,0.0,,0,b3c1df55-d498-4de5-b45b-2f8b1c6f4da4
 39a12b4c-0697-44b1-ac06-5cb7b949d372,2025-07-02T10:09:33+00:00,2025-07-02T10:09:33+00:00,STUD_AUCTION,ACTIVE,c1de3b35-f85f-4996-aa64-e937b9b52680,Dreamy Mosaic,MALE,FFFDE7,0,BUTERIN,3.0,4,0.0,,0,4122b617-3143-4795-91d0-e10c4e2b54bc
 e2be94e0-70eb-4940-978c-b45b66b963db,2025-07-02T09:50:35+00:00,2025-07-02T09:50:35+00:00,STUD_AUCTION,ACTIVE,9a05ec2b-ab9a-48d3-8c84-cf8d82d204f3,Baker Street,MALE,FFF176,1,BUTERIN,3.5,2,0.0,,0,e460f23f-191b-4ef4-8152-f7cf97c652d6
