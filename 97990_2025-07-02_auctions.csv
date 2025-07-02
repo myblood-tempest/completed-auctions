@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+1e1ec84d-8ad7-4062-9efc-f490a712dabd,2025-07-02T12:43:49+00:00,2025-07-02T12:43:49+00:00,STUD_AUCTION,ACTIVE,d28da880-496d-4650-89ed-211eae55abae,Generous Knowledge,MALE,5E35B1,4,SZABO,3.5,0,0.0,,0,4c385f69-5310-47d3-bdca-b12995354fa0
 3865733d-3a66-41f3-b284-9627e88d381c,2025-07-02T11:52:53+00:00,2025-07-02T11:52:53+00:00,STUD_AUCTION,ACTIVE,971c90ee-4c26-4ef2-80c5-9db47d862591,The Seals,MALE,EF9A9A,2,NAKAMOTO,3.0,0,0.0,,0,40a9ba26-c23a-4b4c-bebe-2d23e2517ae5
 4ed1445a-ac6e-473f-92cc-6447cd70aad5,2025-07-02T11:49:27+00:00,2025-07-02T11:49:27+00:00,STUD_AUCTION,ACTIVE,d6e5cafa-7f6d-4255-9186-409807590311,Defiant Discipline,MALE,00ACC1,0,SZABO,3.0,4,0.0,,0,579ed753-04b2-4c1d-ab28-8b957f282254
 ab766573-912e-48a3-a2d3-f05bc7e8a7cd,2025-07-02T11:48:09+00:00,2025-07-02T11:48:09+00:00,STUD_AUCTION,ACTIVE,c8ba8bf7-67d5-40a6-8d35-ca841ec956b3,Artax,MALE,7B1FA2,1,FINNEY,3.5,0,0.0,,0,790e29af-55e3-4585-97b4-320c5a56bb65
