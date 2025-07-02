@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+30912518-c993-4090-99ca-00b71b9f42fe,2025-07-03T06:26:41+00:00,2025-07-03T06:26:41+00:00,STUD_AUCTION,ACTIVE,8f12468b-0dae-473b-bde8-d7140b5427a6,Gentlemen Mercenary,MALE,80DEEA,4,SZABO,3.0,0,0.0,,0,328ba543-ed3d-47f6-8a5f-541387f38514
 d571931f-3151-4a6f-a123-d883b3bc7c69,2025-07-03T06:24:22+00:00,2025-07-03T06:24:22+00:00,STUD_AUCTION,ACTIVE,c2f52320-5246-4a41-976d-c9e17a52591e,Ember,MALE,E57373,0,NAKAMOTO,3.5,1,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
 168574d7-d4ec-4909-ae82-dea40acfba16,2025-07-03T06:23:28+00:00,2025-07-03T06:23:28+00:00,STUD_AUCTION,ACTIVE,f66fbf5e-a537-4faa-9c79-d85cca4dfa07,BoJack Horseman,MALE,F44336,1,NAKAMOTO,3.5,1,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
 7cb275c8-cbaf-4d79-b1df-b5cbafda3816,2025-07-03T06:22:43+00:00,2025-07-03T06:22:43+00:00,STUD_AUCTION,ACTIVE,f90ee76e-e5d7-4c85-bbc4-7d6235f66e3f,Untroubled Foyer,MALE,FFFFFF,3,BUTERIN,3.0,2,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
