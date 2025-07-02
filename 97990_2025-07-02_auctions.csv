@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+658e00f0-7c2d-40e7-a281-dd001dd7e993,2025-07-02T15:07:02+00:00,2025-07-02T15:07:02+00:00,STUD_AUCTION,ACTIVE,e956d177-d89a-4dee-b59e-235eb2a87430,Secure Sundress,MALE,673AB7,2,BUTERIN,3.0,0,0.0,,0,fdb058f3-b236-48d8-bb7d-43d3f81a7baf
 6189190b-57ff-456b-bb51-6a9499902317,2025-07-02T14:55:33+00:00,2025-07-02T14:55:33+00:00,STUD_AUCTION,ACTIVE,1ba70501-c957-4436-ac52-cb5e06b7937b,Tussle Too,MALE,29B6F6,2,SZABO,4.0,2,0.0,,0,03f99bcb-ec62-4f42-9caa-c6f3977f8935
 803c4544-da95-46b0-b270-6528de8b1c60,2025-07-02T14:40:40+00:00,2025-07-02T14:40:40+00:00,STUD_AUCTION,ACTIVE,11b5980b-e5fa-497d-8ac6-42e4d43ae0ca,War Dwarf,MALE,E53935,1,NAKAMOTO,3.5,2,0.0,,0,d7aed759-8115-43dd-af1b-bf8b0dc6e010
 090a9608-ec21-4ba2-8699-c4708238c0b2,2025-07-02T14:35:04+00:00,2025-07-02T14:35:04+00:00,STUD_AUCTION,ACTIVE,774f43b3-97b8-48a0-84fd-d17db17930ab,Optimistic Bagel,MALE,F44336,2,NAKAMOTO,3.5,0,0.0,,0,f6b2a12d-b2de-4e7a-8a00-5213e3158b88
