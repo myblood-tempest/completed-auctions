@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+56ea286d-4a27-432c-a55c-d0f37d13721c,2025-07-02T19:19:18+00:00,2025-07-02T19:19:18+00:00,STUD_AUCTION,ACTIVE,f00ad396-42ab-4ee9-9ef7-1888e6fe1178,Final Countdown,MALE,D4E157,4,FINNEY,3.5,0,0.0,,0,2ab16bb9-ea07-4f48-8360-d516fe61f6f5
 0824e7b5-d2c4-4763-9c64-4a1a199ca6af,2025-07-02T18:33:37+00:00,2025-07-02T18:33:37+00:00,STUD_AUCTION,ACTIVE,c878adf0-8f58-47d4-82f5-e96687bc1383,Caligula,MALE,E53935,2,NAKAMOTO,3.5,6,0.0,,0,8b59e42b-2a64-47c3-a02a-1f8ec1261103
 9dbb0c0e-8123-46ba-80fc-a619c4dcc5bc,2025-07-02T18:26:56+00:00,2025-07-02T18:26:56+00:00,STUD_AUCTION,ACTIVE,5c0db912-5534-4092-9d3d-b709e571d414,Post,MALE,0097A7,5,SZABO,3.0,0,0.0,,0,328ba543-ed3d-47f6-8a5f-541387f38514
 25fffec5-8ece-4135-8a82-bbd8e5f3eac7,2025-07-02T18:17:22+00:00,2025-07-02T18:17:22+00:00,STUD_AUCTION,ACTIVE,31a5631d-30f3-4a0f-baf5-76cdd8e891a8,Aesculapius,MALE,4FC3F7,4,SZABO,3.0,0,0.0,,0,76e5651b-1a30-448d-8316-73acb5c902cd
