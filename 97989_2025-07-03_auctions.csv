@@ -1,2 +1,4 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+659e5c99-2ca4-4cf9-9686-b0f2d1412842,2025-07-03T00:05:40+00:00,2025-07-03T00:05:40+00:00,STUD_AUCTION,ACTIVE,4944b3a7-92c8-4575-aa30-2b81b6f54bf8,Airdropped Stud,MALE,673AB7,0,FINNEY,3.0,1,0.0,,0,d0c0c55a-2e40-4871-beee-66fb2ab41d42
+4f6a59e6-7f56-40dc-b8bf-00113949942f,2025-07-03T00:02:48+00:00,2025-07-03T00:02:48+00:00,STUD_AUCTION,ACTIVE,6fad1205-786c-49f8-956b-dd33027905bb,Yummy Ladybug,MALE,9575CD,0,FINNEY,3.0,0,100.0,Trinity Force,1,8d74207b-97c0-401e-b87c-ec0104d61b34
 566291d3-c977-48ff-bf97-3ca2e45a17f2,2025-07-03T00:00:28+00:00,2025-07-03T00:00:28+00:00,STUD_AUCTION,ACTIVE,791d442c-72e9-40b5-9cba-2e785a08f31b,Mister Milkshake,MALE,81D4FA,1,SZABO,3.5,0,0.0,,0,3fd5634b-03a0-46ac-b16e-4e7ef66af919
