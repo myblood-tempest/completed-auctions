@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+1bea9711-506d-4fe2-be4b-453f07c56976,2025-07-03T01:42:15+00:00,2025-07-03T01:42:15+00:00,STUD_AUCTION,ACTIVE,1b6dd38c-2db6-4e07-b836-ff2bf980aea9,CÃ©leste,MALE,8E24AA,3,SZABO,3.5,0,0.0,,0,eb41fa13-43fa-4f8b-afd5-e57ac971fb00
 e48e60f5-e795-45e2-9404-12b6d16bc547,2025-07-03T01:39:54+00:00,2025-07-03T01:39:54+00:00,STUD_AUCTION,ACTIVE,ac4defaf-a6d8-4fe1-8f29-a9066b0ba2c2,Fathom,MALE,80DEEA,4,SZABO,3.5,0,0.0,,0,76e5651b-1a30-448d-8316-73acb5c902cd
 118dfab5-5966-4b22-a50f-508a2317ae2f,2025-07-03T01:36:38+00:00,2025-07-03T01:36:38+00:00,STUD_AUCTION,ACTIVE,65114aa5-a288-4689-8c07-05200671110c,Howl,MALE,AB47BC,5,FINNEY,3.0,0,0.0,,0,76e5651b-1a30-448d-8316-73acb5c902cd
 680bbd8c-a875-4f8b-ad14-c6427d22c4ef,2025-07-03T01:36:30+00:00,2025-07-03T01:36:30+00:00,STUD_AUCTION,ACTIVE,c55dda30-d177-4b4d-82a8-9f671bfe4768,Inviting Cluster,MALE,7C4DFF,2,FINNEY,3.0,1,0.0,,0,559fef6b-a1a9-4075-a189-713ad926031b
