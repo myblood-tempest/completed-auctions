@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+d49896cb-bf7a-40fd-b298-91ba090ce98c,2025-07-02T09:18:36+00:00,2025-07-02T09:18:36+00:00,STUD_AUCTION,ACTIVE,0fd8e201-d715-4f35-b903-81ee9ba21b9e,Educated Gamble,MALE,EF5350,1,NAKAMOTO,4.0,0,0.0,,0,5dc43058-344f-47d8-ae2d-4c87df1e20bd
 a6984232-ec0b-48ea-850c-414deb38de65,2025-07-02T09:14:25+00:00,2025-07-02T09:14:25+00:00,STUD_AUCTION,ACTIVE,febae43c-0f49-40e2-a92f-9ba26031011b,Captains Cove,MALE,E53935,3,FINNEY,3.5,0,0.0,,0,40a9ba26-c23a-4b4c-bebe-2d23e2517ae5
 9e38adb2-8dd0-49b0-910e-8d19abee227c,2025-07-02T09:10:15+00:00,2025-07-02T09:10:15+00:00,STUD_AUCTION,ACTIVE,a9b1885c-7dcf-4596-8895-002c77129392,Snow Storm,MALE,03A9F4,2,NAKAMOTO,3.0,0,0.0,,0,eb41fa13-43fa-4f8b-afd5-e57ac971fb00
 60888af6-4e53-457f-8e5f-3fe9ea439795,2025-07-02T09:07:48+00:00,2025-07-02T09:07:48+00:00,STUD_AUCTION,ACTIVE,1b6dd38c-2db6-4e07-b836-ff2bf980aea9,CÃ©leste,MALE,8E24AA,3,SZABO,3.5,0,0.0,,0,eb41fa13-43fa-4f8b-afd5-e57ac971fb00
