@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+1c0e3daa-fd76-42ff-b0a5-e44de418126f,2025-07-02T23:39:19+00:00,2025-07-02T23:39:19+00:00,STUD_AUCTION,ACTIVE,ed096908-c1f9-4bf8-92dd-8ab6644225de,Wholesome,MALE,512DA8,2,FINNEY,3.5,0,0.0,,0,61f5cf67-262b-4018-a84e-a2ce8e3be1b3
 fd9dd578-afac-4f16-842d-c6bef6ca61cb,2025-07-02T23:21:21+00:00,2025-07-02T23:21:21+00:00,STUD_AUCTION,ACTIVE,c6c5deb9-5486-498d-abc6-da46ee50d297,Chronos,MALE,FF1744,3,NAKAMOTO,4.0,1,0.0,,0,825c4dee-100b-4567-b27b-f76769851653
 baeb9f9b-6391-454f-a586-e7a14626fb11,2025-07-02T23:19:57+00:00,2025-07-02T23:19:57+00:00,STUD_AUCTION,ACTIVE,dccaabff-a6d0-4d3e-a964-31dea7fa5c3a,Max Engagement,MALE,29B6F6,3,FINNEY,3.5,0,0.0,,0,a7a98add-cc67-43ef-8a9c-981a5b516e6e
 5ef7027f-dabf-4e55-b99d-b1f2693f82d9,2025-07-02T23:19:53+00:00,2025-07-02T23:19:53+00:00,STUD_AUCTION,ACTIVE,d080433a-3cc9-4afe-accb-f4a42073701f,Suede,MALE,0288D1,2,SZABO,3.5,1,0.0,,0,0302b3fe-a0dc-495f-9e9a-61937d05517c
