@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+19c191da-d1b2-47b0-9190-8c67540815d0,2025-07-03T03:13:18+00:00,2025-07-03T03:13:18+00:00,STUD_AUCTION,ACTIVE,73a09745-b7e5-4fbc-b37c-3eb0c4d02e34,Blue Flame,MALE,4DD0E1,4,SZABO,3.5,0,0.0,,0,db2f7f25-7422-4e2b-93d0-d679d6a07a68
 22ae1693-c2a7-42dd-a84a-6b73884eabdb,2025-07-03T03:02:46+00:00,2025-07-03T03:02:46+00:00,STUD_AUCTION,ACTIVE,ca93f321-e4c5-4427-a888-fc3d9dd04355,Spoiler Alert,MALE,FDD835,2,SZABO,3.5,0,0.0,,0,b06f0a2d-18ab-4134-b9a7-75c434904118
 5c5e111f-8f03-4074-93fb-9fe0809cdee2,2025-07-03T02:56:23+00:00,2025-07-03T02:56:23+00:00,STUD_AUCTION,ACTIVE,3c354325-18da-4d8e-8b15-07de8368ac0e,Athletic Boy,MALE,4FC3F7,3,SZABO,3.0,1,0.0,,0,8b932cef-9ab6-448c-9f8c-7be3218c6b44
 bce51190-843c-43d9-a1a7-7e7b32a19018,2025-07-03T02:52:27+00:00,2025-07-03T02:52:27+00:00,STUD_AUCTION,ACTIVE,7f40169d-f8ab-44e7-a9a4-06675b4b7dfd,Pure Blood,MALE,EF5350,1,NAKAMOTO,3.5,1,0.0,,0,0368a6e0-a23c-4527-bd1c-38c79d51fcb4
