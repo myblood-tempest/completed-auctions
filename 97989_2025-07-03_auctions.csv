@@ -1,0 +1,2 @@
+listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+566291d3-c977-48ff-bf97-3ca2e45a17f2,2025-07-03T00:00:28+00:00,2025-07-03T00:00:28+00:00,STUD_AUCTION,ACTIVE,791d442c-72e9-40b5-9cba-2e785a08f31b,Mister Milkshake,MALE,81D4FA,1,SZABO,3.5,0,0.0,,0,3fd5634b-03a0-46ac-b16e-4e7ef66af919
