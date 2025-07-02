@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+803c4544-da95-46b0-b270-6528de8b1c60,2025-07-02T14:40:40+00:00,2025-07-02T14:40:40+00:00,STUD_AUCTION,ACTIVE,11b5980b-e5fa-497d-8ac6-42e4d43ae0ca,War Dwarf,MALE,E53935,1,NAKAMOTO,3.5,2,0.0,,0,d7aed759-8115-43dd-af1b-bf8b0dc6e010
 090a9608-ec21-4ba2-8699-c4708238c0b2,2025-07-02T14:35:04+00:00,2025-07-02T14:35:04+00:00,STUD_AUCTION,ACTIVE,774f43b3-97b8-48a0-84fd-d17db17930ab,Optimistic Bagel,MALE,F44336,2,NAKAMOTO,3.5,0,0.0,,0,f6b2a12d-b2de-4e7a-8a00-5213e3158b88
 388f631a-d007-4015-a2cd-33f652fb0a0b,2025-07-02T14:19:11+00:00,2025-07-02T14:19:11+00:00,STUD_AUCTION,ACTIVE,d1e2d4ff-cfaa-4c12-b9db-ee317cdd39df,5 Toes,MALE,CE93D8,3,FINNEY,3.5,0,0.0,,0,7928b68d-8d08-4e0c-bf86-e800929eae23
 d9e51a9e-7e3b-4f4b-a785-94d2a226b764,2025-07-02T14:00:01+00:00,2025-07-02T14:00:01+00:00,STUD_AUCTION,ACTIVE,4051a4eb-be0c-42de-9dce-9598e677999e,Wholehearted Jupiter,MALE,E57373,4,SZABO,3.0,0,0.0,,0,49b220f7-bdef-46fe-aa3f-66a3239e213e
