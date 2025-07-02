@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+0e1d3158-838f-404a-bcab-6550b8608894,2025-07-02T17:12:18+00:00,2025-07-02T17:12:18+00:00,STUD_AUCTION,ACTIVE,73a09745-b7e5-4fbc-b37c-3eb0c4d02e34,Blue Flame,MALE,4DD0E1,4,SZABO,3.5,0,0.0,,0,db2f7f25-7422-4e2b-93d0-d679d6a07a68
 2a79c1f8-c7ec-43f8-be16-b3b6ff852544,2025-07-02T17:08:45+00:00,2025-07-02T17:08:45+00:00,STUD_AUCTION,ACTIVE,c1f1b5a2-3c7d-45f7-bbf5-240a5e35399a,Ron burgundy,MALE,D81B60,4,BUTERIN,3.5,0,0.0,,0,db2f7f25-7422-4e2b-93d0-d679d6a07a68
 f8c6a4c1-4c3f-4aa2-8e7c-17178d11e53b,2025-07-02T17:08:36+00:00,2025-07-02T17:08:36+00:00,STUD_AUCTION,ACTIVE,355f22f9-ed63-4b34-a335-e251da3768ff,Mungo,MALE,FFFDE7,1,BUTERIN,3.0,2,100.0,Fickle Hands,1,610d7477-1a6b-41d1-aa93-ab7dab9aee8a
 952f0eb2-fe47-4910-85a9-5c78a3b49b32,2025-07-02T16:31:43+00:00,2025-07-02T16:31:43+00:00,STUD_AUCTION,ACTIVE,196df806-b01b-430f-91a7-ae74e446452e,Pee Wee Herman,MALE,EC407A,3,FINNEY,3.5,0,11720.0,Kaitlin Clark,1,aa5d3744-587d-4741-a155-2e8dc0251419
