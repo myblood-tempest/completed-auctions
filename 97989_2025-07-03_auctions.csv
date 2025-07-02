@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+6f92297b-2a33-42f7-9ec0-d2619b9605c6,2025-07-03T01:30:01+00:00,2025-07-03T01:30:01+00:00,STUD_AUCTION,ACTIVE,39d99606-f2d7-4a13-80eb-07b59cae1545,Humorous Carving,MALE,D50000,2,SZABO,3.5,0,0.0,,0,bf1e1207-8756-4dee-a637-336aa6d355a8
 1a2580eb-79bc-4b10-b2c3-40701afce369,2025-07-03T01:02:23+00:00,2025-07-03T01:02:23+00:00,STUD_AUCTION,ACTIVE,a48de11e-0fad-48a2-86e7-e1709f8bf3a3,Electricity,MALE,FBC02D,2,FINNEY,3.5,1,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 a6c871d6-c487-46ab-8290-f3a43b18d4fa,2025-07-03T00:58:35+00:00,2025-07-03T00:58:35+00:00,STUD_AUCTION,ACTIVE,2711d31d-3854-4de4-b9b8-694cc77d570f,Energetic Ell,MALE,673AB7,3,BUTERIN,3.0,1,100.0,Helpful Origami,1,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 bf3f3130-fb35-4342-b530-c5cb6916f42b,2025-07-03T00:55:42+00:00,2025-07-03T00:55:42+00:00,STUD_AUCTION,ACTIVE,77178c6d-52a8-4e90-a0de-b69fc2a5c09a,Uncle Mo,MALE,4FC3F7,1,SZABO,3.5,0,0.0,,0,f067821d-77cb-4d52-9ef8-9ba5fea7257a
