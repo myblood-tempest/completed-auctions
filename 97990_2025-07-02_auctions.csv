@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+9dbb0c0e-8123-46ba-80fc-a619c4dcc5bc,2025-07-02T18:26:56+00:00,2025-07-02T18:26:56+00:00,STUD_AUCTION,ACTIVE,5c0db912-5534-4092-9d3d-b709e571d414,Post,MALE,0097A7,5,SZABO,3.0,0,0.0,,0,328ba543-ed3d-47f6-8a5f-541387f38514
 25fffec5-8ece-4135-8a82-bbd8e5f3eac7,2025-07-02T18:17:22+00:00,2025-07-02T18:17:22+00:00,STUD_AUCTION,ACTIVE,31a5631d-30f3-4a0f-baf5-76cdd8e891a8,Aesculapius,MALE,4FC3F7,4,SZABO,3.0,0,0.0,,0,76e5651b-1a30-448d-8316-73acb5c902cd
 fab0ed85-c1aa-417d-90e2-f929dac6b6ac,2025-07-02T18:11:49+00:00,2025-07-02T18:11:49+00:00,STUD_AUCTION,ACTIVE,b9dfc9c4-1acd-4a2e-a9b1-14ea2b85495d,lamello ball,MALE,F44336,2,FINNEY,3.0,0,0.0,,0,384402be-0514-4497-b26d-a5588a3dca8b
 1b560c77-d3af-4345-8521-849f921ef3b6,2025-07-02T18:01:36+00:00,2025-07-02T18:01:36+00:00,STUD_AUCTION,ACTIVE,e07dd8be-75ae-481b-a6a2-3368cc5c2dc8,Fervent Dwarf,MALE,00BCD4,0,SZABO,3.0,0,0.0,,0,b1de2719-cc80-457a-8ba3-369ddb73aca8
