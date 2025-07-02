@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+388f631a-d007-4015-a2cd-33f652fb0a0b,2025-07-02T14:19:11+00:00,2025-07-02T14:19:11+00:00,STUD_AUCTION,ACTIVE,d1e2d4ff-cfaa-4c12-b9db-ee317cdd39df,5 Toes,MALE,CE93D8,3,FINNEY,3.5,0,0.0,,0,7928b68d-8d08-4e0c-bf86-e800929eae23
 d9e51a9e-7e3b-4f4b-a785-94d2a226b764,2025-07-02T14:00:01+00:00,2025-07-02T14:00:01+00:00,STUD_AUCTION,ACTIVE,4051a4eb-be0c-42de-9dce-9598e677999e,Wholehearted Jupiter,MALE,E57373,4,SZABO,3.0,0,0.0,,0,49b220f7-bdef-46fe-aa3f-66a3239e213e
 00c4e4ce-78cc-413b-8657-85a3fb423777,2025-07-02T13:59:54+00:00,2025-07-02T13:59:54+00:00,STUD_AUCTION,ACTIVE,070b513f-f1fd-48c9-9ceb-f51aa33ed6dc,Not Enough Stars,MALE,7B1FA2,1,FINNEY,3.0,0,0.0,,0,69888ecd-b0b8-4de2-84e3-c1c0996e401d
 51310429-7226-4392-a0a4-90e02a61005f,2025-07-02T13:42:02+00:00,2025-07-02T13:42:02+00:00,STUD_AUCTION,ACTIVE,08e65edc-5ece-4d24-909c-c287e93a9970,Tranquil Vintage,MALE,4DD0E1,0,SZABO,2.5,2,0.0,,0,b5c7383c-7362-48fb-9242-7e36fc3e83eb
