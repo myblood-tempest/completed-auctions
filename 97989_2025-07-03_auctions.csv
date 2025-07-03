@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+d94a56bc-1e81-49c5-b991-dc7b6c4272db,2025-07-03T12:19:49+00:00,2025-07-03T12:19:49+00:00,STUD_AUCTION,ACTIVE,22999d11-91fd-4bff-8042-4a2b43283026,Morgan Wallen,MALE,FFF176,1,BUTERIN,3.0,3,1500.0,Dixie,1,4753d5cc-691b-4f7a-8f46-b57b1851d865
 86dcd7f8-103d-4020-9e14-352dc2748c81,2025-07-03T11:59:27+00:00,2025-07-03T11:59:27+00:00,STUD_AUCTION,ACTIVE,3a6b8311-e1fe-4b35-a4ca-ba25e299b693,No Fear,MALE,D4E157,4,BUTERIN,3.5,0,100.0,Hamish Blake,1,89659879-a5e9-4f02-8b60-40574aceddde
 49dfd979-afdf-442c-9bd3-32d36c27dbcb,2025-07-03T11:28:16+00:00,2025-07-03T11:28:16+00:00,STUD_AUCTION,ACTIVE,3ce9c824-ada6-478a-88b0-43fc55669b45,Kakarot,MALE,26C6DA,2,SZABO,3.0,0,0.0,,0,824e9e1b-846b-4370-84f8-f2b37afa9889
 4efad2dd-a501-446b-ae8a-cfb5e41ad162,2025-07-03T11:17:33+00:00,2025-07-03T11:17:33+00:00,STUD_AUCTION,ACTIVE,9125ed75-89ec-432a-88f6-e7e27a0e3e7c,Quoin,MALE,8E24AA,1,FINNEY,3.0,0,0.0,,0,36537453-34c5-47a2-b5d9-e98a004bd853
