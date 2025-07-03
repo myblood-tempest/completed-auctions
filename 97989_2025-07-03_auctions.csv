@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+c3038d81-555c-4ba0-ade7-8a81bad4b9c1,2025-07-03T14:16:25+00:00,2025-07-03T14:16:25+00:00,STUD_AUCTION,ACTIVE,aaab7854-b2b1-4b6c-b0ac-20dfc6b71345,Honourable Dwarf,MALE,E53935,0,NAKAMOTO,3.5,0,110.0,As Expected,2,d7aed759-8115-43dd-af1b-bf8b0dc6e010
 e563e087-c729-4eb6-a2a7-1eaf9d6ab3dd,2025-07-03T13:35:49+00:00,2025-07-03T13:35:49+00:00,STUD_AUCTION,ACTIVE,5cb65638-d6ef-4025-a7f9-ce021a0fc85d,Manolo Bling,MALE,5E35B1,3,SZABO,3.5,1,0.0,,0,12fbcef8-1d53-408d-a38b-50ef7490aa3a
 afec49ed-6066-441e-9bad-18a1c253a830,2025-07-03T12:48:39+00:00,2025-07-03T12:48:39+00:00,STUD_AUCTION,ACTIVE,806b6048-78a3-48bd-bded-e872e4c7a276,Silly SENDit,MALE,FDD835,3,SZABO,3.0,1,0.0,,0,e10747c4-0569-4aac-b71b-0353b69729bf
 e49ac48e-2bcc-443e-9293-0809e7bcc040,2025-07-03T12:47:41+00:00,2025-07-03T12:47:41+00:00,STUD_AUCTION,ACTIVE,0261a3a8-5614-4cd8-8e4a-f6bd27125922,Shadesmar,MALE,7B1FA2,1,FINNEY,3.0,0,0.0,,0,87d925ab-fbc0-4d2c-ab8a-a89444585ac6
