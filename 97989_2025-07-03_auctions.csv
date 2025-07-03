@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+880d470d-0f52-430e-be59-6ea9f3998c36,2025-07-03T08:29:47+00:00,2025-07-03T08:29:47+00:00,STUD_AUCTION,ACTIVE,f5fe2046-1ffd-42c6-8bb4-6118d6e58349,Magpie,MALE,FFFDE7,0,BUTERIN,3.0,2,100.0,Bubbly Print,1,8bbfdb1e-8a4f-455f-9062-ce06a3f37a3c
 e06f2287-9bef-48f7-9385-96f4723ebb80,2025-07-03T08:19:44+00:00,2025-07-03T08:19:44+00:00,STUD_AUCTION,ACTIVE,67fe6e69-5757-4a88-a242-075d22cf91d4,Nipsey Hussle,MALE,AB47BC,0,FINNEY,3.0,4,0.0,,0,4753d5cc-691b-4f7a-8f46-b57b1851d865
 ff4c97ca-8e4a-412b-aa79-8db0bf28b939,2025-07-03T08:13:09+00:00,2025-07-03T08:13:09+00:00,STUD_AUCTION,ACTIVE,aa034a08-505a-411e-a66a-acc15e91b20f,Worst Airdrop Ever,MALE,4DD0E1,0,SZABO,2.5,0,0.0,,0,c3f73763-c192-4224-86c3-b281fd2f32ee
 f4a9d645-dc01-4485-856f-6708ef91f431,2025-07-03T08:13:03+00:00,2025-07-03T08:13:03+00:00,STUD_AUCTION,ACTIVE,eca86f4c-bb9a-40cf-b6ca-0301380d819c,Reforge Me ASAP â,MALE,AB47BC,3,BUTERIN,3.0,0,0.0,,0,c3f73763-c192-4224-86c3-b281fd2f32ee
