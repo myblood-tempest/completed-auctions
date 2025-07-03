@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+febd4916-236f-4e1b-a133-b6613e0ea1ed,2025-07-03T08:43:43+00:00,2025-07-03T08:43:43+00:00,STUD_AUCTION,ACTIVE,6684ccd8-913e-4165-90de-17e5de3f36e1,Super lackluster,MALE,E53935,1,FINNEY,2.5,1,0.0,,0,8b53a956-26a2-489d-897e-c41dc7a9d12f
 4f5fb341-222e-44d7-9f90-507b733bb4f8,2025-07-03T08:39:11+00:00,2025-07-03T08:39:11+00:00,STUD_AUCTION,ACTIVE,bda493f3-d802-4ad8-9f7d-2826721ec0ad,Serene Radar,MALE,673AB7,2,FINNEY,3.0,1,0.0,,0,7cae2d61-c226-467b-8698-96a725b31b37
 85cc24d9-96c9-4702-9886-c1d3604c524f,2025-07-03T08:39:05+00:00,2025-07-03T08:39:05+00:00,STUD_AUCTION,ACTIVE,a210a7fc-4a3a-45ba-91fc-4dc5cd98fafc,Envious Savanna,MALE,C2185B,2,NAKAMOTO,3.0,1,0.0,,0,7cae2d61-c226-467b-8698-96a725b31b37
 2018bb0f-de9b-4e63-87fe-ea4e3b5458ff,2025-07-03T08:38:55+00:00,2025-07-03T08:38:55+00:00,STUD_AUCTION,ACTIVE,d0a22da2-4b59-42f8-bf18-0980ec043444,Deadly Modernism,MALE,5E35B1,3,NAKAMOTO,3.0,0,0.0,,0,7cae2d61-c226-467b-8698-96a725b31b37
