@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+a44c8691-dfab-4b11-adcb-b410cc18947a,2025-07-03T22:11:16+00:00,2025-07-03T22:11:16+00:00,STUD_AUCTION,ACTIVE,08141575-fe74-4143-9aef-cc1985f0000f,Giggling Baroque,MALE,512DA8,4,SZABO,3.0,0,0.0,,0,70ef4f9a-686d-4a2f-b62b-09f6f248ec08
 2b3f0fab-70b0-48f1-a5f0-764acc283b41,2025-07-03T21:57:19+00:00,2025-07-03T21:57:19+00:00,STUD_AUCTION,ACTIVE,208eb7dd-83ff-4009-b570-6205be5e600a,Reliable Millennium,MALE,AB47BC,5,FINNEY,3.5,0,100.0,Happy Miniaturist,1,8a576834-8b70-491e-adde-0465ebf933d2
 fa58ee5d-6a43-49c6-810d-8cd7a07cf52d,2025-07-03T21:55:29+00:00,2025-07-03T21:55:29+00:00,STUD_AUCTION,ACTIVE,61214e6a-b4ae-4442-9707-c22a74963d53,Sparkling Help,MALE,0097A7,0,SZABO,3.0,0,0.0,,0,6df6a478-7dfd-4137-bf4a-64cf4cc58cc7
 ccf7d038-c87c-4328-957b-16090be421fe,2025-07-03T21:55:11+00:00,2025-07-03T21:55:11+00:00,STUD_AUCTION,ACTIVE,12cac5c4-b28f-4d19-84d6-3d03ab847d65,Pat Tabler,MALE,673AB7,2,FINNEY,3.5,1,0.0,,0,36537453-34c5-47a2-b5d9-e98a004bd853
