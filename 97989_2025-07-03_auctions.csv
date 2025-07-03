@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+fb2d8c55-cffb-4948-b240-50db94d487e1,2025-07-03T15:17:07+00:00,2025-07-03T15:17:07+00:00,STUD_AUCTION,ACTIVE,6bf973c9-ea90-4f16-ae2c-ec911ea62d99,Inclusive Print,MALE,29B6F6,4,FINNEY,3.5,0,0.0,,0,39e5ce80-ae57-45ba-8a18-bc5eecacf9c3
 2aa950f4-8a71-4c44-9827-b7f4d5dc41fa,2025-07-03T14:56:14+00:00,2025-07-03T14:56:14+00:00,STUD_AUCTION,ACTIVE,e1ff17b7-1947-4324-afb5-7f624ac0dd4d,Yummy Quartz,MALE,E91E63,4,BUTERIN,3.0,0,100.0,Tinfoil Hat,1,c8cdf270-282b-4507-b401-a3d57a171549
 b40fd9af-950d-4936-ad30-8ab799d43ae8,2025-07-03T14:38:01+00:00,2025-07-03T14:38:01+00:00,STUD_AUCTION,ACTIVE,61e15ed7-0b22-4cff-8f0d-b41aeeac7c6a,Its Like That,MALE,EF9A9A,2,NAKAMOTO,3.0,0,1110.0,Bonkers,1,5a3aa1a4-3a4b-4ebc-9d60-1699e234b3c5
 00582e85-df03-4866-9e46-fcb748cc28df,2025-07-03T14:30:34+00:00,2025-07-03T14:30:34+00:00,STUD_AUCTION,ACTIVE,f66fbf5e-a537-4faa-9c79-d85cca4dfa07,BoJack Horseman,MALE,F44336,1,NAKAMOTO,3.5,0,0.0,,0,5d031caa-0bb9-4884-b836-7e2bef48f413
