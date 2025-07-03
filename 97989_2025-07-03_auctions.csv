@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+f65de966-4296-4f9e-8b97-e8f3989c59cf,2025-07-03T21:31:05+00:00,2025-07-03T21:31:05+00:00,STUD_AUCTION,ACTIVE,9dff4129-6d25-45aa-8d9a-81902e6c8416,Curious Fanz,MALE,C0CA33,0,BUTERIN,2.5,4,0.0,,0,2d1e7b55-11af-40c3-8bc4-84042e7b10f6
 2b2d2bb0-5b4f-459f-93c6-4459849c1526,2025-07-03T21:29:19+00:00,2025-07-03T21:29:19+00:00,STUD_AUCTION,ACTIVE,a3c74bca-2fa4-4fa2-907d-2561de472f83,Delightful Dream,MALE,4FC3F7,2,SZABO,3.0,0,0.0,,0,2d1e7b55-11af-40c3-8bc4-84042e7b10f6
 8212aa04-cf1a-45a8-b42b-ad606ceb287c,2025-07-03T21:26:19+00:00,2025-07-03T21:26:19+00:00,STUD_AUCTION,ACTIVE,38779b20-cb09-4b64-befd-8d6241a72e3b,Truthful Diplomacy,MALE,F44336,2,FINNEY,4.0,0,10000.0,Thoughtful Sea,1,62594325-4a6c-41e5-bcf7-071fd15aba7e
 e14c7e84-6c49-4b0a-a0d1-09266cea8ec0,2025-07-03T21:15:45+00:00,2025-07-03T21:15:45+00:00,STUD_AUCTION,ACTIVE,99215e55-cfa9-4b08-b466-7653955974e1,Threadbreak,MALE,9575CD,4,NAKAMOTO,4.0,1,0.0,,0,af186f26-12a6-47d0-bc68-5665df9f64fe
