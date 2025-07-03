@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+e390c8ab-1b58-4bf0-93da-eead91734d00,2025-07-03T10:55:50+00:00,2025-07-03T10:55:50+00:00,STUD_AUCTION,ACTIVE,0633d231-f32e-480c-884c-0fd3625235a2,Apartment Sell,MALE,5E35B1,1,SZABO,3.0,2,0.0,,0,801eaf92-bc0c-4944-9c49-ce337f1cdab0
 194cff9a-560b-41dd-a53e-7b01b567f2d5,2025-07-03T10:50:52+00:00,2025-07-03T10:50:52+00:00,STUD_AUCTION,ACTIVE,3c367cd9-ecf2-4205-82b5-fe0f8bbcfd28,Understanding Mandolin,MALE,BA68C8,0,FINNEY,2.5,4,0.0,,0,48def66f-c2e1-4861-895e-d32446f956a6
 c5d8cbee-b598-4761-9692-efccab0a8945,2025-07-03T09:59:45+00:00,2025-07-03T09:59:45+00:00,STUD_AUCTION,ACTIVE,b5371d75-50da-4f20-bd73-fdbae9769b85,Hypnos,MALE,BA68C8,4,SZABO,3.5,0,0.0,,0,825c4dee-100b-4567-b27b-f76769851653
 276697c9-f775-4dc2-979a-d28d5ea7faee,2025-07-03T09:57:34+00:00,2025-07-03T09:57:34+00:00,STUD_AUCTION,ACTIVE,34476312-b429-4888-906c-9e502fb64f77,Hong Kong Phooey,MALE,9575CD,3,FINNEY,3.5,1,0.0,,0,7ac7c0f3-fac6-4e1f-a9c1-21cdd82a0d01
