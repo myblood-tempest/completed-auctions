@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+8d16cfac-b2d3-40c6-8fcd-1ee129dc4203,2025-07-03T09:46:09+00:00,2025-07-03T09:46:09+00:00,STUD_AUCTION,ACTIVE,c6c5deb9-5486-498d-abc6-da46ee50d297,Chronos,MALE,FF1744,3,NAKAMOTO,4.0,0,0.0,,0,825c4dee-100b-4567-b27b-f76769851653
 67ebb7df-b04a-4cd8-84f3-7f7533b876b3,2025-07-03T09:37:12+00:00,2025-07-03T09:37:12+00:00,STUD_AUCTION,ACTIVE,fa734d2c-a7d5-4b30-a57f-2a933f0b6598,Simon,MALE,8E24AA,2,FINNEY,3.5,0,0.0,,0,ceeacf37-697f-4861-b1d0-693106255560
 c0e57d6f-e577-49c7-9333-f21b1475a3c1,2025-07-03T09:28:52+00:00,2025-07-03T09:28:52+00:00,STUD_AUCTION,ACTIVE,774f43b3-97b8-48a0-84fd-d17db17930ab,Optimistic Bagel,MALE,F44336,2,NAKAMOTO,3.5,0,0.0,,0,f6b2a12d-b2de-4e7a-8a00-5213e3158b88
 d89d0e94-e086-48a6-b125-eb1cf3126f46,2025-07-03T09:21:00+00:00,2025-07-03T09:21:00+00:00,STUD_AUCTION,ACTIVE,cb4cd8e4-35c3-4341-af6b-b1b476129bdb,Sensitive Preservation,MALE,CDDC39,0,BUTERIN,3.0,4,0.0,,0,c717ec29-5fdd-4ca7-a2c0-3c3dfe2d2060
