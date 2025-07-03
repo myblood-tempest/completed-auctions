@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+06db1720-3fd7-47ca-ad71-d62b81b97258,2025-07-03T20:37:19+00:00,2025-07-03T20:37:19+00:00,STUD_AUCTION,ACTIVE,4eb68df6-9716-417a-92a2-aabc3f8e2db2,Content Star,MALE,80DEEA,2,SZABO,3.0,2,0.0,,0,497b08a0-0c22-4f4a-b53b-3ba34d917dca
 01aa89c7-d1fa-4e12-8972-4ab1fc7d1f76,2025-07-03T20:10:59+00:00,2025-07-03T20:10:59+00:00,STUD_AUCTION,ACTIVE,8498ffbb-d731-492e-9134-7a715a7f3f02,Serene Cassowary,MALE,AB47BC,0,FINNEY,3.0,2,0.0,,0,df8918f6-d1a7-4fa0-b1f1-c82571db1b93
 0a39382b-df88-4568-a91e-3d83945b9770,2025-07-03T20:08:11+00:00,2025-07-03T20:08:11+00:00,STUD_AUCTION,ACTIVE,1b6dd38c-2db6-4e07-b836-ff2bf980aea9,CÃ©leste,MALE,8E24AA,3,SZABO,3.5,0,0.0,,0,eb41fa13-43fa-4f8b-afd5-e57ac971fb00
 a9f11e3b-33de-4057-9d00-6ec746b9929a,2025-07-03T20:03:58+00:00,2025-07-03T20:03:58+00:00,STUD_AUCTION,ACTIVE,e51a3556-0cdd-4fd1-b6d7-3d152f65ae5b,Massiah,MALE,E53935,2,NAKAMOTO,3.0,2,0.0,,0,a81a956d-7a4a-4895-82f7-c13fde5e441f
