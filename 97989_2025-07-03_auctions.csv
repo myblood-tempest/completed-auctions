@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+e06f2287-9bef-48f7-9385-96f4723ebb80,2025-07-03T08:19:44+00:00,2025-07-03T08:19:44+00:00,STUD_AUCTION,ACTIVE,67fe6e69-5757-4a88-a242-075d22cf91d4,Nipsey Hussle,MALE,AB47BC,0,FINNEY,3.0,4,0.0,,0,4753d5cc-691b-4f7a-8f46-b57b1851d865
 ff4c97ca-8e4a-412b-aa79-8db0bf28b939,2025-07-03T08:13:09+00:00,2025-07-03T08:13:09+00:00,STUD_AUCTION,ACTIVE,aa034a08-505a-411e-a66a-acc15e91b20f,Worst Airdrop Ever,MALE,4DD0E1,0,SZABO,2.5,0,0.0,,0,c3f73763-c192-4224-86c3-b281fd2f32ee
 f4a9d645-dc01-4485-856f-6708ef91f431,2025-07-03T08:13:03+00:00,2025-07-03T08:13:03+00:00,STUD_AUCTION,ACTIVE,eca86f4c-bb9a-40cf-b6ca-0301380d819c,Reforge Me ASAP â,MALE,AB47BC,3,BUTERIN,3.0,0,0.0,,0,c3f73763-c192-4224-86c3-b281fd2f32ee
 9a0ca9ca-17cb-47e6-bc5c-181f0abebfb1,2025-07-03T08:09:19+00:00,2025-07-03T08:09:19+00:00,STUD_AUCTION,ACTIVE,08d0e331-973c-49d5-84fa-e24bacd1755a,alp arizo,MALE,00E5FF,1,NAKAMOTO,3.0,1,0.0,,0,1d428e3c-7c62-4710-8cc5-b6b0f70ad425
