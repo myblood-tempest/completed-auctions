@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+0a39382b-df88-4568-a91e-3d83945b9770,2025-07-03T20:08:11+00:00,2025-07-03T20:08:11+00:00,STUD_AUCTION,ACTIVE,1b6dd38c-2db6-4e07-b836-ff2bf980aea9,CÃ©leste,MALE,8E24AA,3,SZABO,3.5,0,0.0,,0,eb41fa13-43fa-4f8b-afd5-e57ac971fb00
 a9f11e3b-33de-4057-9d00-6ec746b9929a,2025-07-03T20:03:58+00:00,2025-07-03T20:03:58+00:00,STUD_AUCTION,ACTIVE,e51a3556-0cdd-4fd1-b6d7-3d152f65ae5b,Massiah,MALE,E53935,2,NAKAMOTO,3.0,2,0.0,,0,a81a956d-7a4a-4895-82f7-c13fde5e441f
 de9ef655-436d-49e3-8842-fb6c56702241,2025-07-03T20:03:53+00:00,2025-07-03T20:03:53+00:00,STUD_AUCTION,ACTIVE,971c90ee-4c26-4ef2-80c5-9db47d862591,The Seals,MALE,EF9A9A,2,NAKAMOTO,3.0,0,0.0,,0,40a9ba26-c23a-4b4c-bebe-2d23e2517ae5
 d446403f-005d-4857-aff6-4f7c332d649e,2025-07-03T20:03:44+00:00,2025-07-03T20:03:44+00:00,STUD_AUCTION,ACTIVE,ec906996-e7c1-4b9b-9c15-1c9eec00f54b,Obabo,MALE,9575CD,2,FINNEY,3.0,1,0.0,,0,a81a956d-7a4a-4895-82f7-c13fde5e441f
