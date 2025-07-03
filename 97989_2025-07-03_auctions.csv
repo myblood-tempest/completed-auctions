@@ -1,4 +1,5 @@
 listing_id,end_time,settle_time,listing_type,listing_state,horse_id,horse_name,horse_gender,hex_color,generation,bloodline,complete_rating,breeding_slots,winning_bid_amount,winning_bidder,total_bids,user_id
+49dfd979-afdf-442c-9bd3-32d36c27dbcb,2025-07-03T11:28:16+00:00,2025-07-03T11:28:16+00:00,STUD_AUCTION,ACTIVE,3ce9c824-ada6-478a-88b0-43fc55669b45,Kakarot,MALE,26C6DA,2,SZABO,3.0,0,0.0,,0,824e9e1b-846b-4370-84f8-f2b37afa9889
 4efad2dd-a501-446b-ae8a-cfb5e41ad162,2025-07-03T11:17:33+00:00,2025-07-03T11:17:33+00:00,STUD_AUCTION,ACTIVE,9125ed75-89ec-432a-88f6-e7e27a0e3e7c,Quoin,MALE,8E24AA,1,FINNEY,3.0,0,0.0,,0,36537453-34c5-47a2-b5d9-e98a004bd853
 d6f588a4-f31e-4e86-82bd-95948337baef,2025-07-03T11:13:47+00:00,2025-07-03T11:13:47+00:00,STUD_AUCTION,ACTIVE,3c354325-18da-4d8e-8b15-07de8368ac0e,Athletic Boy,MALE,4FC3F7,3,SZABO,3.0,0,0.0,,0,8b932cef-9ab6-448c-9f8c-7be3218c6b44
 6c9a4252-61f0-4988-9d7a-65224c261706,2025-07-03T11:06:49+00:00,2025-07-03T11:06:49+00:00,STUD_AUCTION,ACTIVE,ead7d3cb-30bf-41a0-82fc-db694cc706b4,Strong,MALE,0288D1,4,SZABO,4.0,0,10100.0,Quirk,1,0cb14e18-fbb3-4ab5-9531-0dd409950b27
